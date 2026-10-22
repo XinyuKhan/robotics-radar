@@ -174,10 +174,11 @@ def check_oss_item(item, now):
         except Exception as e:
             errors.append(f"owner {owner}: {e}")
 
-    # 3) GitHub search on name, description and README (may surface third-party notes)
+    # 3) GitHub search on name and description (README hits are mostly paper lists).
+    # Third-party reproductions show up here too, so search alone never sets signal.
     for t in item.get("search_terms") or [item["name"]]:
         try:
-            for r in search(f'"{t}" in:name,description,readme', sort="updated", per_page=20):
+            for r in search(f'"{t}" in:name,description', sort="updated", per_page=20):
                 add(r, "search")
         except Exception as e:
             errors.append(f"search {t}: {e}")
@@ -204,10 +205,11 @@ def check_oss_item(item, now):
         except Exception as e:
             errors.append(f"arxiv {item['arxiv_id']}: {e}")
 
-    candidates = sorted(cands.values(),
-                        key=lambda c: ("known_repo" not in c["sources"],
-                                       not any(s.startswith("owner") for s in c["sources"]),
-                                       -c["stars"]))
+    trusted = lambda c: any(s != "search" for s in c["sources"])
+    candidates = sorted((c for c in cands.values() if trusted(c)),
+                        key=lambda c: ("known_repo" not in c["sources"], -c["stars"]))
+    search_hits = sorted((c for c in cands.values() if not trusted(c)),
+                         key=lambda c: c["created_at"], reverse=True)
     return {
         "name": item["name"],
         "title": item.get("title"),
@@ -216,6 +218,7 @@ def check_oss_item(item, now):
         "status": item.get("status", "unknown"),
         "signal": bool(candidates or page_links or arxiv_links),
         "candidate_repos": candidates[:20],
+        "search_hits": search_hits[:15],
         "project_page_github_links": page_links,
         "project_page_release_claims": claims,
         "arxiv_github_links": arxiv_links,
