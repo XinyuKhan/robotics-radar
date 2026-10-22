@@ -1,0 +1,17 @@
+{
+ "_doc": "开源监测列表 / OSS watchlist. 手动维护：增删条目只改这个文件。radar Action 每天检查每一项并把结果写进 data/latest.json 的 oss_watch 字段。字段说明见 README。",
+ "items": [
+  {
+   "name": "SuperMimic",
+   "title": "SuperMimic: Scaling Humanoid Whole-Body Control with One Differentiable World Model",
+   "arxiv_id": "2610.28480",
+   "added": "2026-10-22",
+   "status": "unknown",
+   "search_terms": ["SuperMimic"],
+   "owners": ["qiayuanl", "HybridRobotics"],
+   "project_pages": ["https://supermimic.github.io"],
+   "known_repos": ["qiayuanl/SuperMimic", "HybridRobotics/SuperMimic", "HybridRobotics/supermimic"],
+   "notes": "CoRL 2026 Oral; Qiayuan Liao, Koushil Sreenath et al. (UC Berkeley)"
+  }
+ ]
+}
