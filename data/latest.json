@@ -1,14 +1,24 @@
 {
- "generated_at": "2026-11-14T23:12:02.392794+00:00",
- "date_taipei": "2026-11-15",
- "new_repos_since": "2026-11-12",
- "star_baseline_taken_at": "2026-11-13T23:13:32.211991+00:00",
+ "generated_at": "2026-11-15T23:15:05.871975+00:00",
+ "date_taipei": "2026-11-16",
+ "new_repos_since": "2026-11-13",
+ "star_baseline_taken_at": "2026-11-14T23:12:02.392794+00:00",
  "new_repos": [
+  {
+   "full_name": "jacobvm04/slam-dunk",
+   "url": "https://github.com/jacobvm04/slam-dunk",
+   "description": "SLAM Dunk: A recipe for long horizon egocentric SLAM in the wild",
+   "stars": 79,
+   "language": "C++",
+   "topics": [],
+   "created_at": "2026-11-13T01:47:26Z",
+   "pushed_at": "2026-11-15T00:54:21Z"
+  },
   {
    "full_name": "RoboticsResearchHubVN/InstantAMP",
    "url": "https://github.com/RoboticsResearchHubVN/InstantAMP",
    "description": "Train AMP in 30 minutes on 1 RTX 5090: Unitree G1 locomotion and get-up through a differentiable world model (JAX + MuJoCo Warp)",
-   "stars": 20,
+   "stars": 21,
    "language": "Python",
    "topics": [
     "humanoid",
@@ -20,22 +30,23 @@
    "pushed_at": "2026-11-13T06:44:55Z"
   },
   {
-   "full_name": "voyager-so/vauss",
-   "url": "https://github.com/voyager-so/vauss",
-   "description": "Fast Gaussian splat reconstruction for Blender, agents, and reusable 3D worlds",
-   "stars": 19,
-   "language": "Rust",
+   "full_name": "ShutongLiang/Neural-State-OS",
+   "url": "https://github.com/ShutongLiang/Neural-State-OS",
+   "description": "Calibrated internal-state modulation, readout, and neural observability for local dense language models.",
+   "stars": 20,
+   "language": "Python",
    "topics": [
-    "3d-reconstruction",
-    "ai-agents",
-    "blender",
-    "computer-vision",
-    "gaussian-splatting",
-    "rust",
-    "structure-from-motion"
+    "activation-steering",
+    "affective-computing",
+    "embodied-ai",
+    "gemma",
+    "mechanistic-interpretability",
+    "mlx",
+    "pytorch",
+    "representation-engineering"
    ],
-   "created_at": "2026-11-12T01:56:44Z",
-   "pushed_at": "2026-11-14T21:56:37Z"
+   "created_at": "2026-11-14T16:36:55Z",
+   "pushed_at": "2026-11-14T20:45:14Z"
   },
   {
    "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
@@ -51,7 +62,7 @@
    "full_name": "Tequila7437/Eco3R",
    "url": "https://github.com/Tequila7437/Eco3R",
    "description": "Eco3R: pinned-key inference for efficient and streamable feed-forward 3D reconstruction from long videos",
-   "stars": 9,
+   "stars": 12,
    "language": "Python",
    "topics": [
     "3d-reconstruction",
@@ -65,6 +76,16 @@
    "pushed_at": "2026-11-14T15:47:44Z"
   },
   {
+   "full_name": "KhushiJ2911/microVLA",
+   "url": "https://github.com/KhushiJ2911/microVLA",
+   "description": "A small pi0.5-style vision-language-action model you can train from scratch on a 4 GB laptop GPU, plus running the real pi0.5 on the same GPU.",
+   "stars": 12,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2026-11-14T12:29:57Z",
+   "pushed_at": "2026-11-15T00:09:06Z"
+  },
+  {
    "full_name": "Jelly-dog-tg/AutoMotion-SLAMPark",
    "url": "https://github.com/Jelly-dog-tg/AutoMotion-SLAMPark",
    "description": "3D SLAM-based autonomous parking simulation integrating LiDAR/ICP mapping, Hybrid A* path planning, Stanley/PID control, and physics-driven reverse parking with PyBullet.",
@@ -75,14 +96,14 @@
    "pushed_at": "2026-11-13T08:12:29Z"
   },
   {
-   "full_name": "KhushiJ2911/microVLA",
-   "url": "https://github.com/KhushiJ2911/microVLA",
-   "description": "A small pi0.5-style vision-language-action model you can train from scratch on a 4 GB laptop GPU, plus running the real pi0.5 on the same GPU.",
-   "stars": 7,
-   "language": "Python",
+   "full_name": "schan-lab/Mobile-SLAM-iOS",
+   "url": "https://github.com/schan-lab/Mobile-SLAM-iOS",
+   "description": "iPhone version of Mobile SLAM (Livox Mid-360 LIO / NDT)",
+   "stars": 8,
+   "language": "Swift",
    "topics": [],
-   "created_at": "2026-11-14T12:29:57Z",
-   "pushed_at": "2026-11-14T15:20:39Z"
+   "created_at": "2026-11-13T15:36:27Z",
+   "pushed_at": "2026-11-15T13:34:27Z"
   },
   {
    "full_name": "BL-CX/legged_mjlab",
@@ -98,7 +119,7 @@
    "full_name": "Yangruncheng/g1-motion-lab",
    "url": "https://github.com/Yangruncheng/g1-motion-lab",
    "description": "From boxing to whole-body motion: compact Unitree G1 student policies in MuJoCo, with BC + DAgger + PPO, real rollout videos, checkpoints, and bilingual technical reports.",
-   "stars": 4,
+   "stars": 5,
    "language": "Python",
    "topics": [
     "dagger",
@@ -179,17 +200,38 @@
     "statistics"
    ],
    "created_at": "2026-11-13T22:21:02Z",
-   "pushed_at": "2026-11-14T16:36:41Z"
+   "pushed_at": "2026-11-15T01:00:46Z"
   },
   {
-   "full_name": "blueif16/vla_final",
-   "url": "https://github.com/blueif16/vla_final",
-   "description": "CS 6180 final project on vision-language-action models: learning chapters, status and (later) code",
+   "full_name": "aymen-000/VLAForge",
+   "url": "https://github.com/aymen-000/VLAForge",
+   "description": "VLAForge is a modular Python framework for building Vision-Language-Action models. It provides shared interfaces and data structures so model, dataset, training, and inference implementations can evolve independently.",
    "stars": 2,
    "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-12T03:12:00Z",
-   "pushed_at": "2026-11-14T19:10:52Z"
+   "topics": [
+    "robotics",
+    "vision-language-action",
+    "vision-language-model",
+    "world-models"
+   ],
+   "created_at": "2026-11-14T19:40:13Z",
+   "pushed_at": "2026-11-14T22:36:14Z"
+  },
+  {
+   "full_name": "lucidrains/PMW-pytorch",
+   "url": "https://github.com/lucidrains/PMW-pytorch",
+   "description": "A practical implementation of PWM: Policy Learning with Multi-Task World Models",
+   "stars": 2,
+   "language": null,
+   "topics": [
+    "artificial-intelligence",
+    "deep-learning",
+    "first-order-optimization",
+    "reinforcement-learning",
+    "world-models"
+   ],
+   "created_at": "2026-11-15T14:19:47Z",
+   "pushed_at": "2026-11-15T18:52:39Z"
   },
   {
    "full_name": "Xuerui-Wang-oss/BENI_PARKOUR",
@@ -202,14 +244,24 @@
    "pushed_at": "2026-11-14T02:09:53Z"
   },
   {
+   "full_name": "schan-lab/mobile-slam-support",
+   "url": "https://github.com/schan-lab/mobile-slam-support",
+   "description": "Support and privacy policy for the Mobile SLAM iPhone app",
+   "stars": 2,
+   "language": "HTML",
+   "topics": [],
+   "created_at": "2026-11-13T16:15:01Z",
+   "pushed_at": "2026-11-13T16:15:07Z"
+  },
+  {
    "full_name": "iee-ihu-gr-course1941/ADISE26_SLAM_dunk",
    "url": "https://github.com/iee-ihu-gr-course1941/ADISE26_SLAM_dunk",
    "description": "",
    "stars": 2,
-   "language": null,
+   "language": "PHP",
    "topics": [],
    "created_at": "2026-11-13T16:47:58Z",
-   "pushed_at": "2026-11-14T22:56:29Z"
+   "pushed_at": "2026-11-15T20:55:56Z"
   },
   {
    "full_name": "Alasoshuang18/Based-on-the-secondary-development-of-the-Lite3-quadruped-robot",
@@ -220,23 +272,6 @@
    "topics": [],
    "created_at": "2026-11-13T08:18:18Z",
    "pushed_at": "2026-11-13T14:18:30Z"
-  },
-  {
-   "full_name": "NiLabs-Org/grail",
-   "url": "https://github.com/NiLabs-Org/grail",
-   "description": "Real-time inference for robot foundation models, on the chips inside robots.",
-   "stars": 1,
-   "language": "Python",
-   "topics": [
-    "edge-ai",
-    "inference",
-    "jetson",
-    "lerobot",
-    "robotics",
-    "vla"
-   ],
-   "created_at": "2026-11-12T03:28:43Z",
-   "pushed_at": "2026-11-12T04:20:16Z"
   },
   {
    "full_name": "takiihor/ur10e-vision-calibration-full",
@@ -259,6 +294,24 @@
    "pushed_at": "2026-11-13T10:13:45Z"
   },
   {
+   "full_name": "namerror/RescueTwin",
+   "url": "https://github.com/namerror/RescueTwin",
+   "description": "RescueTwin uses digital twins of commercial and residential buildings to simulate fire and smoke emergencies and evaluate how a rescue robot detects hazards, identifies potential survivors, and adapts evacuation routes.",
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "agentic-ai",
+    "costar-dataset",
+    "digital-twin",
+    "matterport",
+    "navigation",
+    "robotics",
+    "simulation"
+   ],
+   "created_at": "2026-11-14T01:36:33Z",
+   "pushed_at": "2026-11-15T12:31:50Z"
+  },
+  {
    "full_name": "Ataghi2001/quadruped-rl-ppo",
    "url": "https://github.com/Ataghi2001/quadruped-rl-ppo",
    "description": "Training a quadruped robot to walk from scratch using Proximal Policy Optimization (PPO), Gymnasium, MuJoCo, and PyTorch.",
@@ -277,6 +330,46 @@
    ],
    "created_at": "2026-11-13T10:48:05Z",
    "pushed_at": "2026-11-13T11:51:50Z"
+  },
+  {
+   "full_name": "5Color/dtra",
+   "url": "https://github.com/5Color/dtra",
+   "description": "Real-Time Continual 3D Manipulation via Two-Stage Docking and Elastic Snap-Back of Hypertube Rings",
+   "stars": 1,
+   "language": "Python",
+   "topics": [
+    "continual-learning",
+    "meta-world",
+    "pytorch",
+    "robotics",
+    "visuomotor-policy"
+   ],
+   "created_at": "2026-11-14T10:18:23Z",
+   "pushed_at": "2026-11-14T22:08:59Z"
+  },
+  {
+   "full_name": "varolkan/Autolivery-Drone",
+   "url": "https://github.com/varolkan/Autolivery-Drone",
+   "description": "Autonomous parcel delivery for PX4 drones on ROS 2. Noncommercial use only, no military use. See LICENSE.md.",
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "drone",
+    "gazebo",
+    "path-planning",
+    "path-planning-algorithm",
+    "path-planning-algorithms",
+    "path-planning-environment",
+    "path-planning-simulator",
+    "px4",
+    "robotics",
+    "ros2",
+    "ros2-control",
+    "ros2-humble",
+    "uav"
+   ],
+   "created_at": "2026-11-14T11:18:28Z",
+   "pushed_at": "2026-11-14T11:47:23Z"
   },
   {
    "full_name": "AIFlow-Labs-Limited/impera",
@@ -323,23 +416,7 @@
     "waypoint-prediction"
    ],
    "created_at": "2026-11-14T06:14:10Z",
-   "pushed_at": "2026-11-14T12:35:07Z"
-  },
-  {
-   "full_name": "OHMFOHS/vla-manipulation-sim",
-   "url": "https://github.com/OHMFOHS/vla-manipulation-sim",
-   "description": "Language-guided robotic manipulation in MuJoCo/robosuite: RGB-D perception, closed-loop failure recovery, behaviour cloning",
-   "stars": 1,
-   "language": "Python",
-   "topics": [
-    "embodied-ai",
-    "imitation-learning",
-    "mujoco",
-    "robosuite",
-    "robotics"
-   ],
-   "created_at": "2026-11-14T01:14:28Z",
-   "pushed_at": "2026-11-14T01:14:35Z"
+   "pushed_at": "2026-11-15T08:28:11Z"
   },
   {
    "full_name": "Hebbian-Robotics/rua",
@@ -360,45 +437,39 @@
     "so101"
    ],
    "created_at": "2026-11-14T05:51:29Z",
-   "pushed_at": "2026-11-14T15:26:03Z"
+   "pushed_at": "2026-11-15T16:31:26Z"
   },
   {
-   "full_name": "ZangbaoGT/xianshou",
-   "url": "https://github.com/ZangbaoGT/xianshou",
-   "description": "先手 · First Move — 两台机器人，一台替另一台看盲区；只在看见变化时发 16 字节。",
+   "full_name": "OHMFOHS/vla-manipulation-sim",
+   "url": "https://github.com/OHMFOHS/vla-manipulation-sim",
+   "description": "Language-guided robotic manipulation in MuJoCo/robosuite: RGB-D perception, closed-loop failure recovery, behaviour cloning",
    "stars": 1,
    "language": "Python",
    "topics": [
-    "event-camera",
-    "neuromorphic",
-    "rdk",
-    "robotics",
-    "swarm-robotics",
-    "udp"
+    "embodied-ai",
+    "imitation-learning",
+    "mujoco",
+    "robosuite",
+    "robotics"
    ],
-   "created_at": "2026-11-12T07:17:21Z",
-   "pushed_at": "2026-11-12T07:19:57Z"
+   "created_at": "2026-11-14T01:14:28Z",
+   "pushed_at": "2026-11-14T01:14:35Z"
   },
   {
-   "full_name": "MustafaBozann/Synex",
-   "url": "https://github.com/MustafaBozann/Synex",
-   "description": "An AI pilot for small indoor drones: learned to fly where GPS can't follow. 98.5 % on a 1,000-task greenhouse exam, 0 crashes in 80 Gazebo + PX4 flights. Simulation results, charts and videos.",
+   "full_name": "vishalkotak/policy-gate",
+   "url": "https://github.com/vishalkotak/policy-gate",
+   "description": "Catch regressions in robot policy checkpoints before they reach the fleet. LeRobot ALOHA sim, sequential paired testing, canary rollout sim.",
    "stars": 1,
-   "language": null,
+   "language": "HTML",
    "topics": [
-    "agtech",
-    "autonomous-drones",
-    "drone",
-    "gazebo",
-    "greenhouse",
-    "indoor-navigation",
-    "px4",
-    "reinforcement-learning",
+    "lerobot",
+    "mujoco",
+    "release-engineering",
     "robotics",
-    "simulation"
+    "sequential-testing"
    ],
-   "created_at": "2026-11-12T15:40:20Z",
-   "pushed_at": "2026-11-12T16:40:32Z"
+   "created_at": "2026-11-15T19:48:28Z",
+   "pushed_at": "2026-11-15T20:00:56Z"
   },
   {
    "full_name": "emrys-math/emrys-filter",
@@ -432,59 +503,21 @@
    "pushed_at": "2026-11-13T12:24:20Z"
   },
   {
-   "full_name": "YitianShi/grasp-atlas",
-   "url": "https://github.com/YitianShi/grasp-atlas",
-   "description": "An offline literature browser for robotic grasping research.",
+   "full_name": "Tauwho/GUARD",
+   "url": "https://github.com/Tauwho/GUARD",
+   "description": "Gated Unexpired Authorization for Robotic Drives. QNX Global Hackathon, Robotics and Medical category.",
    "stars": 1,
-   "language": "HTML",
+   "language": null,
    "topics": [
-    "grasp-detection",
-    "grasp-planning",
-    "grasping",
-    "robot-learning",
-    "robotics"
-   ],
-   "created_at": "2026-11-12T19:18:40Z",
-   "pushed_at": "2026-11-12T19:37:22Z"
-  },
-  {
-   "full_name": "VaibhavBansa1/MaleCNS-Quadruped",
-   "url": "https://github.com/VaibhavBansa1/MaleCNS-Quadruped",
-   "description": "A four-legged ESP32 robot driven live by a real fruit-fly brain: the MaleCNS v1.0 connectome (166k neurons) sees through a webcam and decides escape, turn and walk.",
-   "stars": 1,
-   "language": "Python",
-   "topics": [
-    "computational-neuroscience",
-    "connectome",
-    "drosophila",
-    "esp32",
-    "fruit-fly",
-    "neuromorphic",
-    "quadruped",
+    "cpp",
+    "hackathon",
+    "qnx",
     "robotics",
-    "spiking-neural-network"
+    "runtime-verification",
+    "safety"
    ],
-   "created_at": "2026-11-12T16:32:35Z",
-   "pushed_at": "2026-11-12T19:57:30Z"
-  },
-  {
-   "full_name": "Jekov-Evgen/RoboticsModel",
-   "url": "https://github.com/Jekov-Evgen/RoboticsModel",
-   "description": "3D robot builder & simulator with its own C++20 physics engine: PID control lab, sensors, URDF import, macOS editor",
-   "stars": 1,
-   "language": "C++",
-   "topics": [
-    "cpp20",
-    "macos",
-    "metal",
-    "physics-engine",
-    "pid-controller",
-    "robotics",
-    "simulation",
-    "urdf"
-   ],
-   "created_at": "2026-11-12T11:35:43Z",
-   "pushed_at": "2026-11-12T12:13:32Z"
+   "created_at": "2026-11-15T05:13:05Z",
+   "pushed_at": "2026-11-15T14:37:01Z"
   },
   {
    "full_name": "5Color/abk-vla",
@@ -517,93 +550,69 @@
    "pushed_at": "2026-11-14T17:51:24Z"
   },
   {
-   "full_name": "dundysm/steadyhand",
-   "url": "https://github.com/dundysm/steadyhand",
-   "description": "Turn a written lab protocol into a robot program and rehearse it before it touches a real bench.",
+   "full_name": "dAAAb/pear.js",
+   "url": "https://github.com/dAAAb/pear.js",
+   "description": "PEAR's robot station in TypeScript: drive an SO-101 arm from a browser with a PEAR model server. Unofficial port of mit-han-lab/pear; work in progress.",
    "stars": 1,
-   "language": "Python",
-   "topics": [
-    "lab-automation",
-    "liquid-handling",
-    "mujoco",
-    "opentrons",
-    "pylabrobot",
-    "robotics",
-    "simulation"
-   ],
-   "created_at": "2026-11-12T23:47:30Z",
-   "pushed_at": "2026-11-14T19:08:20Z"
-  },
-  {
-   "full_name": "mike200004/so101-sim",
-   "url": "https://github.com/mike200004/so101-sim",
-   "description": "A minimal MuJoCo simulation of the SO-101 robot arm: joint sliders, preset poses and a looping demo",
-   "stars": 1,
-   "language": "Python",
+   "language": "TypeScript",
    "topics": [
     "lerobot",
-    "mujoco",
     "robotics",
-    "simulation",
-    "so-101"
+    "so-101",
+    "typescript",
+    "webserial"
    ],
-   "created_at": "2026-11-12T01:29:46Z",
-   "pushed_at": "2026-11-12T01:29:53Z"
+   "created_at": "2026-11-15T03:39:06Z",
+   "pushed_at": "2026-11-15T22:29:30Z"
   },
   {
-   "full_name": "77-GGG/bumi-handbooks",
-   "url": "https://github.com/77-GGG/bumi-handbooks",
-   "description": "Bumi 机器人中文文档合集：笔记本外挂部署手册 + 综合使用手册（LaTeX 源码 + 编译好的 PDF）",
-   "stars": 1,
-   "language": "TeX",
-   "topics": [
-    "bumi",
-    "chinese",
-    "documentation",
-    "handbook",
-    "latex",
-    "manual",
-    "robotics"
-   ],
-   "created_at": "2026-11-12T15:58:13Z",
-   "pushed_at": "2026-11-14T13:51:03Z"
-  },
-  {
-   "full_name": "ShutongLiang/Neural-State-OS",
-   "url": "https://github.com/ShutongLiang/Neural-State-OS",
-   "description": "Calibrated internal-state modulation, readout, and neural observability for local dense language models.",
+   "full_name": "kabilankb/cosmos3-bimanual-studio",
+   "url": "https://github.com/kabilankb/cosmos3-bimanual-studio",
+   "description": "Cosmos3-Nano-Sim-Bimanual world model on a Jetson AGX Orin: generate bimanual robot videos and publish them as Hugging Face / LeRobot datasets",
    "stars": 1,
    "language": "Python",
    "topics": [
-    "activation-steering",
-    "affective-computing",
-    "embodied-ai",
-    "gemma",
-    "mechanistic-interpretability",
-    "mlx",
-    "pytorch",
-    "representation-engineering"
+    "bimanual",
+    "cosmos",
+    "huggingface",
+    "jetson",
+    "lerobot",
+    "robotics",
+    "world-model"
    ],
-   "created_at": "2026-11-14T16:36:55Z",
-   "pushed_at": "2026-11-14T20:45:14Z"
+   "created_at": "2026-11-14T17:23:28Z",
+   "pushed_at": "2026-11-14T17:57:10Z"
   },
   {
-   "full_name": "ruiling-smartbear/bayin",
-   "url": "https://github.com/ruiling-smartbear/bayin",
-   "description": "八音 · Instruments as physical models: actions in, sound out. Built on CHIMERA's simulation of air; made for action-conditioned audio world models.",
+   "full_name": "iUtsa/casual-world-editor",
+   "url": "https://github.com/iUtsa/casual-world-editor",
+   "description": "What you imagine, you can simulate. Point a camera at the real world or describe an imagined one, ask “what if?”, and get a real simulation checked against theory. Free and on-device.",
    "stars": 1,
-   "language": "Rust",
+   "language": "Python",
    "topics": [
-    "audio",
-    "dataset",
-    "music",
-    "physical-modeling",
-    "rust",
-    "sound-synthesis",
-    "world-models"
+    "3d-reconstruction",
+    "apple-silicon",
+    "augmented-reality",
+    "computer-vision",
+    "depth-estimation",
+    "digital-twin",
+    "edtech",
+    "hackprinceton",
+    "hand-tracking",
+    "interactive-learning",
+    "mediapipe",
+    "mujoco",
+    "on-device-ai",
+    "physics-simulation",
+    "segment-anything",
+    "simulation",
+    "stem-education",
+    "structure-from-motion",
+    "threejs",
+    "what-if"
    ],
-   "created_at": "2026-11-12T21:11:11Z",
-   "pushed_at": "2026-11-12T21:11:17Z"
+   "created_at": "2026-11-14T01:05:45Z",
+   "pushed_at": "2026-11-15T16:21:40Z"
   },
   {
    "full_name": "L0Y8T/dreamerv3-reproduction",
@@ -624,6 +633,63 @@
    "pushed_at": "2026-11-14T15:17:06Z"
   },
   {
+   "full_name": "krunalvaghela1262-eng/SEDRICA-AUTONOMOUS-DRIVING",
+   "url": "https://github.com/krunalvaghela1262-eng/SEDRICA-AUTONOMOUS-DRIVING",
+   "description": "SeDriCa, IIT Bombay: autonomous golf cart, RoboRacer racing stack (3rd place, Techfest 2025: Cartographer, particle filter, adaptive pure pursuit, follow-the-gap) and a Vision Transformer for traffic signs.",
+   "stars": 1,
+   "language": "Jupyter Notebook",
+   "topics": [
+    "autonomous-driving",
+    "autonomous-racing",
+    "cartographer",
+    "f1tenth",
+    "iit-bombay",
+    "particle-filter",
+    "pure-pursuit",
+    "pytorch",
+    "ros2",
+    "slam",
+    "vision-transformer"
+   ],
+   "created_at": "2026-11-15T10:01:51Z",
+   "pushed_at": "2026-11-15T10:17:53Z"
+  },
+  {
+   "full_name": "soaring-horizon/mvkit",
+   "url": "https://github.com/soaring-horizon/mvkit",
+   "description": "面向工业机器视觉的 C/C++ SDK 与 工作流GUI，支持图像处理、模板定位、相机标定、双目视觉和结构光三维重建。",
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "3d-reconstruction",
+    "camera-calibration",
+    "computer-vision",
+    "halcon",
+    "image-processing",
+    "machine-vision",
+    "stereo-vision",
+    "structured-light",
+    "template-matching"
+   ],
+   "created_at": "2026-11-15T12:07:58Z",
+   "pushed_at": "2026-11-15T12:16:50Z"
+  },
+  {
+   "full_name": "soaring-horizon/colite",
+   "url": "https://github.com/soaring-horizon/colite",
+   "description": "一个参考COLMAP的三维重建项目，用于学习和测试，配有原生Windows和Linux工作台。",
+   "stars": 1,
+   "language": "C++",
+   "topics": [
+    "3d-reconstruction",
+    "bundle-adjustment",
+    "multi-view-stereo",
+    "structure-from-motion"
+   ],
+   "created_at": "2026-11-15T14:05:03Z",
+   "pushed_at": "2026-11-15T14:05:51Z"
+  },
+  {
    "full_name": "aiorbits/station-lite-LeRobot-v070-SmolVLA-RTC",
    "url": "https://github.com/aiorbits/station-lite-LeRobot-v070-SmolVLA-RTC",
    "description": "",
@@ -632,6 +698,16 @@
    "topics": [],
    "created_at": "2026-11-14T13:28:53Z",
    "pushed_at": "2026-11-14T13:38:24Z"
+  },
+  {
+   "full_name": "PKM100/BoTTLE",
+   "url": "https://github.com/PKM100/BoTTLE",
+   "description": "BoTTLE: Benchmark of Task-level Total Latency & Energy for robot VLA models",
+   "stars": 1,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2026-11-14T21:56:41Z",
+   "pushed_at": "2026-11-15T22:37:46Z"
   },
   {
    "full_name": "HyoKong/Awesome-3D-Scene-Understanding-and-Interaction",
@@ -651,7 +727,7 @@
    "language": "Python",
    "topics": [],
    "created_at": "2026-11-13T09:33:26Z",
-   "pushed_at": "2026-11-14T22:06:31Z"
+   "pushed_at": "2026-11-15T03:05:43Z"
   },
   {
    "full_name": "totoleon/xgoduck-sim2real",
@@ -664,24 +740,24 @@
    "pushed_at": "2026-11-13T04:42:27Z"
   },
   {
-   "full_name": "Weirdnemo/Drone-SLAM",
-   "url": "https://github.com/Weirdnemo/Drone-SLAM",
-   "description": "",
+   "full_name": "AntoBuo-Dev/red-pony-llm-editing-net",
+   "url": "https://github.com/AntoBuo-Dev/red-pony-llm-editing-net",
+   "description": "Project R.E.D. Pony: an LLM edits trained robot policies by hand, no retraining (H1_2 heading hold, drone yaw, SOLO-12 on three legs)",
    "stars": 1,
    "language": "Python",
    "topics": [],
-   "created_at": "2026-11-12T05:34:46Z",
-   "pushed_at": "2026-11-12T05:54:38Z"
+   "created_at": "2026-11-14T09:00:52Z",
+   "pushed_at": "2026-11-14T15:01:35Z"
   },
   {
-   "full_name": "electronicQ/GO2_nav_ws",
-   "url": "https://github.com/electronicQ/GO2_nav_ws",
-   "description": "GO2完整3D激光slam，3D点云地图到2D栅格地图转换，3D点云地图定位，Nav2导航",
+   "full_name": "thedeepakreddy/ATLAS-spatial-intelligence",
+   "url": "https://github.com/thedeepakreddy/ATLAS-spatial-intelligence",
+   "description": "Atlas- Understanding the physical world. Is an independent research initiative exploring persistent, evidence-grounded spatial intelligence through dynamic 4D scene understanding, world memory, physical reasoning, and embodied interaction.",
    "stars": 1,
-   "language": "C++",
+   "language": null,
    "topics": [],
-   "created_at": "2026-11-12T15:22:00Z",
-   "pushed_at": "2026-11-14T11:37:13Z"
+   "created_at": "2026-11-15T19:54:42Z",
+   "pushed_at": "2026-11-15T20:20:56Z"
   },
   {
    "full_name": "Kyk0/k1-dances",
@@ -769,56 +845,106 @@
    "pushed_at": "2026-11-14T17:34:05Z"
   },
   {
-   "full_name": "thanaphatratip-hub/leaf-collecting-raft",
-   "url": "https://github.com/thanaphatratip-hub/leaf-collecting-raft",
-   "description": "Autonomous leaf-collecting raft: 3D-printed, epoxy-sealed hardware built for a 10-person Feedback Control project",
+   "full_name": "dAAAb/atomiclaw",
+   "url": "https://github.com/dAAAb/atomiclaw",
+   "description": "Type a task in plain words for a LeRobot SO-101 arm; MIT's PEAR model on your own GPU works out every move. An agent with CLI, terminal and web UIs, a supervisor with a stop control, and a self-hosted API-key gateway. Simulation only so far.",
    "stars": 0,
-   "language": null,
+   "language": "Python",
    "topics": [
-    "3d-printing",
-    "autonomous-boat",
-    "hardware",
-    "pid-control",
+    "ai-agent",
+    "embodied-ai",
+    "lerobot",
+    "mujoco",
+    "pear",
+    "physical-ai",
+    "robot-arm",
+    "robotics",
+    "self-hosted",
+    "so-101",
+    "vllm"
+   ],
+   "created_at": "2026-11-15T10:38:16Z",
+   "pushed_at": "2026-11-15T10:38:35Z"
+  },
+  {
+   "full_name": "shamveelmazhar/marswalk-navigators",
+   "url": "https://github.com/shamveelmazhar/marswalk-navigators",
+   "description": "Safe Marswalk routes for astronauts and a support rover at Mount Sharp, built on real NASA data. 2026 NASA Space Apps.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "aerospace",
+    "fastapi",
+    "fea",
+    "leaflet",
+    "mars",
+    "nasa-space-apps",
+    "path-planning",
     "robotics"
    ],
-   "created_at": "2026-11-13T18:38:57Z",
-   "pushed_at": "2026-11-13T18:39:05Z"
+   "created_at": "2026-11-14T06:12:32Z",
+   "pushed_at": "2026-11-15T17:38:32Z"
   },
   {
-   "full_name": "DhigveerrajuG/Vishwakarma",
-   "url": "https://github.com/DhigveerrajuG/Vishwakarma",
-   "description": "Modern Robotics & AI Engineering Portfolio — Autonomous YOLOv8 Edge Vision, Embedded PWM Motor Actuation, and Physical Intelligence Systems.",
+   "full_name": "vicfei/RoboHarness",
+   "url": "https://github.com/vicfei/RoboHarness",
+   "description": "A general robotic harness — LLM agents operate real arms via deterministic primitives with a current-feedback safety layer. Zero training. Hardware: CreateBlock 5-DOF today, mainstream arms next.",
    "stars": 0,
-   "language": "JavaScript",
+   "language": "Python",
    "topics": [
-    "arduino",
-    "artificial-intelligence",
-    "computer-vision",
-    "java26",
-    "opencv",
-    "portfolio",
+    "embodied-ai",
+    "jetson",
+    "lerobot",
+    "llm-agents",
+    "pybullet",
+    "robot-arm",
+    "robot-learning",
     "robotics",
-    "typescript",
-    "yolov8"
+    "safety-critical",
+    "so-100",
+    "so-101"
    ],
-   "created_at": "2026-11-14T12:47:31Z",
-   "pushed_at": "2026-11-14T16:34:38Z"
+   "created_at": "2026-11-14T09:03:35Z",
+   "pushed_at": "2026-11-15T19:03:52Z"
   },
   {
-   "full_name": "thduy-h/Unitree-G1-Hybrid-RL-Logistics",
-   "url": "https://github.com/thduy-h/Unitree-G1-Hybrid-RL-Logistics",
-   "description": "Humanoid robot learning for box pickup, stair climbing, and critic-based policy handoff on Unitree G1.",
+   "full_name": "alexmaietta/terrestrial-mobility-assets",
+   "url": "https://github.com/alexmaietta/terrestrial-mobility-assets",
+   "description": "Photoreal, simulation-ready off-road, military and construction vehicles in OpenUSD (Isaac Sim / Newton), URDF, glTF, OBJ, FBX and Blender formats, with an interactive 3D web viewer",
    "stars": 0,
-   "language": null,
+   "language": "Python",
    "topics": [
-    "humanoid-robot",
+    "3d-models",
+    "blender",
+    "construction-equipment",
+    "gltf",
     "isaac-sim",
-    "reinforcement-learning",
+    "military-vehicles",
+    "off-road",
+    "openusd",
     "robotics",
-    "unitree-g1"
+    "ros",
+    "simulation",
+    "urdf",
+    "vehicle-dynamics"
    ],
-   "created_at": "2026-11-14T19:44:26Z",
-   "pushed_at": "2026-11-14T20:27:25Z"
+   "created_at": "2026-11-15T21:56:06Z",
+   "pushed_at": "2026-11-15T21:57:26Z"
+  },
+  {
+   "full_name": "shubhrgunjan/beyond-recovery",
+   "url": "https://github.com/shubhrgunjan/beyond-recovery",
+   "description": "Instrumented humanoid recovery research: live MuJoCo on AGX Thor, reproducible experiments, and evidence-bounded reports.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "humanoid",
+    "mujoco",
+    "recoverability",
+    "robotics"
+   ],
+   "created_at": "2026-11-15T06:39:02Z",
+   "pushed_at": "2026-11-15T22:33:28Z"
   },
   {
    "full_name": "Aiden-723/RBE201TC-Cybertruck",
@@ -885,6 +1011,24 @@
    "pushed_at": "2026-11-14T16:17:05Z"
   },
   {
+   "full_name": "RohitCh2000/ros2-amr-sensor-integration",
+   "url": "https://github.com/RohitCh2000/ros2-amr-sensor-integration",
+   "description": "ROS 2 C++ nodes for AMR sensor integration: LiDAR, IMU and wheel encoder data over I2C, SPI and CAN for robot positioning and motion control.",
+   "stars": 0,
+   "language": "C++",
+   "topics": [
+    "amr",
+    "cpp",
+    "embedded-linux",
+    "imu",
+    "lidar",
+    "robotics",
+    "ros2"
+   ],
+   "created_at": "2026-11-15T07:06:35Z",
+   "pushed_at": "2026-11-15T07:34:10Z"
+  },
+  {
    "full_name": "HuseyinSaygili/HuseyinSaygili.github.io",
    "url": "https://github.com/HuseyinSaygili/HuseyinSaygili.github.io",
    "description": "Personal portfolio: marine robotics, bathymetric SLAM and sensor fusion · ITU Robotics Lab & ASELLAB",
@@ -929,119 +1073,224 @@
     "vertex-ai"
    ],
    "created_at": "2026-11-14T16:56:55Z",
-   "pushed_at": "2026-11-14T23:07:25Z"
+   "pushed_at": "2026-11-15T23:07:18Z"
   },
   {
-   "full_name": "5Color/dtra",
-   "url": "https://github.com/5Color/dtra",
-   "description": "Real-Time Continual 3D Manipulation via Two-Stage Docking and Elastic Snap-Back of Hypertube Rings",
+   "full_name": "DhigveerrajuG/Vishwakarma",
+   "url": "https://github.com/DhigveerrajuG/Vishwakarma",
+   "description": "Modern Robotics & AI Engineering Portfolio — Autonomous YOLOv8 Edge Vision, Embedded PWM Motor Actuation, and Physical Intelligence Systems.",
+   "stars": 0,
+   "language": "JavaScript",
+   "topics": [
+    "arduino",
+    "artificial-intelligence",
+    "computer-vision",
+    "java26",
+    "opencv",
+    "portfolio",
+    "robotics",
+    "typescript",
+    "yolov8"
+   ],
+   "created_at": "2026-11-14T12:47:31Z",
+   "pushed_at": "2026-11-14T16:34:38Z"
+  },
+  {
+   "full_name": "thduy-h/Unitree-G1-Hybrid-RL-Logistics",
+   "url": "https://github.com/thduy-h/Unitree-G1-Hybrid-RL-Logistics",
+   "description": "Humanoid robot learning for box pickup, stair climbing, and critic-based policy handoff on Unitree G1.",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "humanoid-robot",
+    "isaac-sim",
+    "reinforcement-learning",
+    "robotics",
+    "unitree-g1"
+   ],
+   "created_at": "2026-11-14T19:44:26Z",
+   "pushed_at": "2026-11-14T20:27:25Z"
+  },
+  {
+   "full_name": "izhangfly/piper-gpt-arm",
+   "url": "https://github.com/izhangfly/piper-gpt-arm",
+   "description": "A large model drives an AgileX PiPER arm from two cameras: pick a bottle, put it in a basket, take it out and stand it back up. Skills mode (AgileX style) and direct mode (the model moves the arm itself), a desktop portal, and a benchmark across models.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "continual-learning",
-    "meta-world",
-    "pytorch",
+    "agilex-piper",
+    "benchmark",
+    "llm",
+    "openai",
     "robotics",
-    "visuomotor-policy"
+    "vision-language-model"
    ],
-   "created_at": "2026-11-14T10:18:23Z",
-   "pushed_at": "2026-11-14T22:08:59Z"
+   "created_at": "2026-11-15T22:04:30Z",
+   "pushed_at": "2026-11-15T22:26:56Z"
   },
   {
-   "full_name": "MatiiiBL/apex-driverless",
-   "url": "https://github.com/MatiiiBL/apex-driverless",
-   "description": "Autonomous Formula Student Driverless stack in C++20: LiDAR + camera cone perception, EKF-SLAM, minimum-curvature raceline and MPC, raced in its own simulator",
+   "full_name": "Orls967/AoKira",
+   "url": "https://github.com/Orls967/AoKira",
+   "description": "Browser-based industrial robotic workcell digital twin: 6-axis robot kinematics, collision checking & 8-stage pick-and-place simulation in Rust/WebAssembly, interactive 3D (React + Three.js), and Python/FastAPI + SciPy production analytics & optimization.",
    "stars": 0,
-   "language": "C++",
+   "language": "TypeScript",
    "topics": [
-    "autonomous-driving",
-    "autonomous-racing",
-    "cpp20",
-    "ekf-slam",
-    "formula-student",
-    "lidar",
-    "model-predictive-control",
-    "motion-planning",
+    "digital-twin",
+    "fastapi",
+    "github-pages",
+    "industrial-automation",
+    "inverse-kinematics",
+    "manufacturing",
+    "optimization",
+    "react",
+    "react-three-fiber",
     "robotics",
+    "rust",
+    "scipy",
     "simulation",
-    "slam"
+    "threejs",
+    "typescript",
+    "wasm",
+    "webassembly"
    ],
-   "created_at": "2026-11-12T00:20:02Z",
-   "pushed_at": "2026-11-13T06:19:45Z"
+   "created_at": "2026-11-14T20:43:36Z",
+   "pushed_at": "2026-11-15T18:43:05Z"
   },
   {
-   "full_name": "gbesse/stacked-action-anchor-audit",
-   "url": "https://github.com/gbesse/stacked-action-anchor-audit",
-   "description": "FR: Détecter un ancrage temporel périmé malgré un aller-retour correct · EN: Detect stale temporal anchors despite correct round trips · ES: Detectar anclas temporales obsoletas pese a ida y vuelta correcta",
+   "full_name": "Robotics1661/Robotics1661",
+   "url": "https://github.com/Robotics1661/Robotics1661",
+   "description": "Profile Readme",
    "stars": 0,
-   "language": "Python",
+   "language": null,
    "topics": [
-    "open-source",
-    "reproducible-research",
+    "readme-profile",
+    "robotics",
+    "team1661"
+   ],
+   "created_at": "2026-11-14T20:53:33Z",
+   "pushed_at": "2026-11-14T20:59:01Z"
+  },
+  {
+   "full_name": "thanaphatratip-hub/leaf-collecting-raft",
+   "url": "https://github.com/thanaphatratip-hub/leaf-collecting-raft",
+   "description": "Autonomous leaf-collecting raft: 3D-printed, epoxy-sealed hardware built for a 10-person Feedback Control project",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "3d-printing",
+    "autonomous-boat",
+    "hardware",
+    "pid-control",
     "robotics"
    ],
-   "created_at": "2026-11-12T21:10:56Z",
-   "pushed_at": "2026-11-12T21:16:11Z"
+   "created_at": "2026-11-13T18:38:57Z",
+   "pushed_at": "2026-11-15T20:40:44Z"
   },
   {
-   "full_name": "varolkan/Autolivery-Drone",
-   "url": "https://github.com/varolkan/Autolivery-Drone",
-   "description": "Autonomous parcel delivery for PX4 drones on ROS 2. Noncommercial use only, no military use. See LICENSE.md.",
+   "full_name": "JJUNI-01-KOR/Turtlebot3-Guide-Robot",
+   "url": "https://github.com/JJUNI-01-KOR/Turtlebot3-Guide-Robot",
+   "description": "TurtleBot3 실내 방문자 안내 로봇: ROS2 Humble, Nav2 자율주행, ArUco 마커 도킹 (2인 팀)",
    "stars": 0,
-   "language": "C++",
+   "language": "Python",
    "topics": [
-    "drone",
-    "gazebo",
-    "path-planning",
-    "path-planning-algorithm",
-    "path-planning-algorithms",
-    "path-planning-environment",
-    "path-planning-simulator",
-    "px4",
+    "aruco",
+    "nav2",
+    "raspberry-pi",
     "robotics",
     "ros2",
-    "ros2-control",
-    "ros2-humble",
-    "uav"
+    "smart-factory",
+    "turtlebot3"
    ],
-   "created_at": "2026-11-14T11:18:28Z",
-   "pushed_at": "2026-11-14T11:47:23Z"
+   "created_at": "2026-11-15T12:52:50Z",
+   "pushed_at": "2026-11-15T15:03:24Z"
+  },
+  {
+   "full_name": "cufelix/hackjunction",
+   "url": "https://github.com/cufelix/hackjunction",
+   "description": "Junction 2026 Aaltonomous Humanoid, team LARP INTERNS: a classical sorter with a gated local VLM brain for a Unitree G1 + Dex3. Final submission: v1.0-submission.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "hackathon",
+    "humanoid",
+    "junction2026",
+    "robotics",
+    "unitree-g1",
+    "vision-language-model"
+   ],
+   "created_at": "2026-11-13T13:03:51Z",
+   "pushed_at": "2026-11-15T10:56:33Z"
+  },
+  {
+   "full_name": "SwimmingDevel0per/robot-learning-teleoperation-pipeline",
+   "url": "https://github.com/SwimmingDevel0per/robot-learning-teleoperation-pipeline",
+   "description": "Robot-agnostic teleoperation and demonstration data collection pipeline for imitation learning.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "autonomous-systems",
+    "imitation-learning",
+    "lerobot",
+    "machine-learning",
+    "mujoco",
+    "python",
+    "research",
+    "robot-learning",
+    "robotics",
+    "teleoperation"
+   ],
+   "created_at": "2026-11-15T10:24:41Z",
+   "pushed_at": "2026-11-15T10:57:00Z"
+  },
+  {
+   "full_name": "deniz41-justacceptmyusername/ashina-robot-studio",
+   "url": "https://github.com/deniz41-justacceptmyusername/ashina-robot-studio",
+   "description": "Native Unity desktop simulator for FRC driver training. Build your robot, connect WPILib over NT4, and practice seasonal fields.",
+   "stars": 0,
+   "language": "C#",
+   "topics": [
+    "blockly",
+    "driver-training",
+    "frc",
+    "networktables",
+    "rebuilt",
+    "reefscape",
+    "robotics",
+    "simulation",
+    "unity",
+    "wpilib"
+   ],
+   "created_at": "2026-11-15T14:45:20Z",
+   "pushed_at": "2026-11-15T14:49:14Z"
   },
   {
    "full_name": "DareDev256/one-lesson",
    "url": "https://github.com/DareDev256/one-lesson",
-   "description": "Teach one robot. Every robot learns. Undo it in one click. Governed skill memory for robot fleets on MongoDB Atlas.",
+   "description": "MongoDB AI agent memory you can govern: teach one robot a skill and every home in the fleet learns it live, each home's rules can refuse it, and any lesson can be traced and rolled back. Change streams, Atlas Vector Search, $graphLookup, ElevenLabs voice. Hackathon finalist, top 6 of 98.",
    "stars": 0,
    "language": "TypeScript",
    "topics": [
+    "agent-memory",
     "ai-agents",
+    "ai-governance",
+    "ai-memory",
     "change-streams",
+    "conversational-ai",
     "elevenlabs",
+    "express",
     "hackathon",
     "mongodb",
     "mongodb-atlas",
+    "mongodb-vector-search",
+    "react",
     "robotics",
-    "vector-search"
+    "typescript",
+    "vector-search",
+    "vite",
+    "voyage-ai"
    ],
    "created_at": "2026-11-14T15:44:54Z",
-   "pushed_at": "2026-11-14T21:48:16Z"
-  },
-  {
-   "full_name": "ahmetefesensoy/frc-autolab",
-   "url": "https://github.com/ahmetefesensoy/frc-autolab",
-   "description": "FRC autonomous verification MVP: deterministic swerve simulation, fault injection, benchmarks and replay",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "fault-injection",
-    "first-robotics",
-    "frc",
-    "robotics",
-    "simulation",
-    "swerve"
-   ],
-   "created_at": "2026-11-12T19:38:24Z",
-   "pushed_at": "2026-11-12T19:47:37Z"
+   "pushed_at": "2026-11-15T21:50:33Z"
   },
   {
    "full_name": "E-Moynul/4-DOF-SCARA-ROBOT-ARM-CAD-kinematics-Gazebo-PID-tuning",
@@ -1064,130 +1313,25 @@
    "pushed_at": "2026-11-13T21:30:53Z"
   },
   {
-   "full_name": "gbesse/replay-terminal-transition-lab",
-   "url": "https://github.com/gbesse/replay-terminal-transition-lab",
-   "description": "FR: Vérifier les transitions terminales du tampon de rejeu · EN: Check replay-buffer terminal transitions · ES: Verificar transiciones terminales del búfer",
+   "full_name": "Alex-Calva/tera",
+   "url": "https://github.com/Alex-Calva/tera",
+   "description": "Robotics tournament management platform: registration, payment validation, bracket draws and live results (React, Node.js, PostgreSQL)",
    "stars": 0,
-   "language": "Python",
+   "language": null,
    "topics": [
-    "open-source",
-    "reproducible-research",
-    "robotics"
-   ],
-   "created_at": "2026-11-12T21:11:03Z",
-   "pushed_at": "2026-11-12T21:16:13Z"
-  },
-  {
-   "full_name": "alishan24456-glitch/depth-vision-3d",
-   "url": "https://github.com/alishan24456-glitch/depth-vision-3d",
-   "description": "Monocular depth estimation with Depth Anything V2 — live depth map, distance bands and closest-zone readout from one ordinary camera. No bounding-box detection.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "computer-vision",
-    "depth-anything",
-    "depth-estimation",
-    "monocular-depth",
-    "onnx",
-    "onnxruntime",
-    "opencv",
-    "python",
+    "express",
+    "full-stack",
+    "jwt",
+    "nodejs",
+    "postgresql",
+    "react",
     "robotics",
-    "self-driving"
+    "tailwindcss",
+    "tournament-management",
+    "vite"
    ],
-   "created_at": "2026-11-13T16:19:32Z",
-   "pushed_at": "2026-11-13T16:20:19Z"
-  },
-  {
-   "full_name": "mcaniot/Omega",
-   "url": "https://github.com/mcaniot/Omega",
-   "description": "Small, versioned agent setup for Claude Code and Codex that keeps the context window clean: shell output stored as evidence, guarded reads, on-demand skills. 87% fewer tokens on reproducible workloads.",
-   "stars": 0,
-   "language": "Rust",
-   "topics": [
-    "ai-agents",
-    "claude-code",
-    "codex",
-    "context-engineering",
-    "developer-tools",
-    "llm",
-    "robotics",
-    "rust"
-   ],
-   "created_at": "2026-11-13T09:38:12Z",
-   "pushed_at": "2026-11-14T17:39:05Z"
-  },
-  {
-   "full_name": "irgamrafly/maunc-esp32-bluetooth-robot-car",
-   "url": "https://github.com/irgamrafly/maunc-esp32-bluetooth-robot-car",
-   "description": "An ESP32-based 4WD robot car controlled via Bluetooth, featuring forward, backward, left, right, and stop movements. This project uses DC motors, a motor driver, and BluetoothSerial for wireless control, supported and facilitated by MAUNC Robotika UNSIL.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "4wd-robot",
-    "arduino",
-    "bluetooth",
-    "dc-motor",
-    "embedded-systems",
-    "esp32",
-    "mauc",
-    "robot-car",
-    "robotics",
-    "unsil"
-   ],
-   "created_at": "2026-11-12T01:13:06Z",
-   "pushed_at": "2026-11-12T01:28:24Z"
-  },
-  {
-   "full_name": "jhyeong687/MORA",
-   "url": "https://github.com/jhyeong687/MORA",
-   "description": "MORA · Mobile Robotic Arm | TurtleBot3 × SO-ARM101: CAD, simulation evidence and cloud-GPU research toward sim-to-real",
-   "stars": 0,
-   "language": "HTML",
-   "topics": [
-    "gazebo",
-    "mobile-manipulation",
-    "mujoco",
-    "robotics",
-    "ros2",
-    "sim-to-real",
-    "so-arm101",
-    "turtlebot3"
-   ],
-   "created_at": "2026-11-12T06:50:27Z",
-   "pushed_at": "2026-11-13T01:01:08Z"
-  },
-  {
-   "full_name": "Kyk0/g1-dances",
-   "url": "https://github.com/Kyk0/g1-dances",
-   "description": "G1 Dances: 893 AIST++ dances retargeted to the Unitree G1 humanoid (website)",
-   "stars": 0,
-   "language": "HTML",
-   "topics": [
-    "aist",
-    "dance",
-    "humanoid",
-    "motion-dataset",
-    "robotics",
-    "unitree-g1"
-   ],
-   "created_at": "2026-11-12T16:34:16Z",
-   "pushed_at": "2026-11-14T01:44:54Z"
-  },
-  {
-   "full_name": "RomDev-Hub/rom-automatic-ev-charging-arm",
-   "url": "https://github.com/RomDev-Hub/rom-automatic-ev-charging-arm",
-   "description": "Hệ thống quản lý và điều khiển cánh tay robot để tự động sạc cho xe điện.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "ev-charging",
-    "robot-arm",
-    "robotics",
-    "universal-robots"
-   ],
-   "created_at": "2026-11-14T05:33:24Z",
-   "pushed_at": "2026-11-14T06:36:34Z"
+   "created_at": "2026-11-15T05:46:23Z",
+   "pushed_at": "2026-11-15T05:46:29Z"
   },
   {
    "full_name": "VoTrieu/FANUC_PICK_AND_PLACE",
@@ -1224,37 +1368,20 @@
    "pushed_at": "2026-11-14T15:43:21Z"
   },
   {
-   "full_name": "ing-melcat/Chavalin",
-   "url": "https://github.com/ing-melcat/Chavalin",
-   "description": "High-Speed Competition Line Follower Robot | ESP32-C3 + 16ch QTR-8A MUX + TB6612 20kHz PWM + EDF Turbine + Web Telemetry & Python Physics Simulator",
+   "full_name": "ershiyidian/ViCoR",
+   "url": "https://github.com/ershiyidian/ViCoR",
+   "description": "Acting by Intent, Reacting by Sight: Visual Conditioned Reflexes for Real-Time VLM Agents",
    "stars": 0,
-   "language": "C++",
+   "language": "Python",
    "topics": [
-    "cpp",
-    "embedded-systems",
-    "esp32",
-    "kicad",
-    "line-follower",
-    "pid-control",
-    "robotics"
-   ],
-   "created_at": "2026-11-13T17:40:14Z",
-   "pushed_at": "2026-11-14T18:05:18Z"
-  },
-  {
-   "full_name": "wcbsdxg/wcbsdxg",
-   "url": "https://github.com/wcbsdxg/wcbsdxg",
-   "description": "GitHub 个人主页：嵌入式 · 具身智能 · 机器人",
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "embedded",
     "embodied-ai",
-    "profile",
-    "readme"
+    "game-agents",
+    "real-time-agents",
+    "vision-language-models",
+    "vlm-agents"
    ],
-   "created_at": "2026-11-13T11:55:33Z",
-   "pushed_at": "2026-11-13T17:02:12Z"
+   "created_at": "2026-11-15T14:57:44Z",
+   "pushed_at": "2026-11-15T15:01:53Z"
   },
   {
    "full_name": "13717930620-alt/embodiment-card",
@@ -1275,38 +1402,77 @@
    "pushed_at": "2026-11-14T02:14:00Z"
   },
   {
-   "full_name": "CC-HH-NN/lingbot-vla-rpent",
-   "url": "https://github.com/CC-HH-NN/lingbot-vla-rpent",
-   "description": "Post-training, closed-loop evaluation, inference optimization, and RPent Agent integration for LingBot-VLA 2.0 on RoboTwin.",
+   "full_name": "ZIWU-AI/robotics-bench",
+   "url": "https://github.com/ZIWU-AI/robotics-bench",
+   "description": "Evaluating AI agents on robotics: contributor-built cases in CPU and GPU simulation, scored by replaying a sealed recording.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "ai-agents",
+    "benchmark",
+    "embodied-ai",
+    "isaac-sim",
+    "mujoco",
+    "robotics",
+    "simulation"
+   ],
+   "created_at": "2026-11-15T16:55:15Z",
+   "pushed_at": "2026-11-15T17:09:08Z"
+  },
+  {
+   "full_name": "Flux-Architect/swarm-of-swarms",
+   "url": "https://github.com/Flux-Architect/swarm-of-swarms",
+   "description": "Thermodynamic Evolutionary Functional for Embodied AI (v4.0): 732% efficiency boost via Softplus physical shift & hardware-isolated verification.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "active-inference",
+    "ai-safety",
+    "embodied-ai",
+    "evolutionary-algorithms",
+    "free-energy-principle",
+    "information-theory",
+    "multi-agent-systems",
+    "python-simulation",
+    "swarm-intelligence",
+    "thermodynamics"
+   ],
+   "created_at": "2026-11-15T11:17:51Z",
+   "pushed_at": "2026-11-15T16:31:41Z"
+  },
+  {
+   "full_name": "wcbsdxg/wcbsdxg",
+   "url": "https://github.com/wcbsdxg/wcbsdxg",
+   "description": "GitHub 个人主页：嵌入式 · 具身智能 · 机器人",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "embedded",
+    "embodied-ai",
+    "profile",
+    "readme"
+   ],
+   "created_at": "2026-11-13T11:55:33Z",
+   "pushed_at": "2026-11-13T17:02:12Z"
+  },
+  {
+   "full_name": "hiteshhedwig/when-the-scene-changes",
+   "url": "https://github.com/hiteshhedwig/when-the-scene-changes",
+   "description": "VLA robustness pilot: cloud OpenVLA, local LIBERO robot simulation, paired camera faults, and reproducible failure analysis.",
    "stars": 0,
    "language": "Python",
    "topics": [
     "embodied-ai",
-    "imitation-learning",
-    "inference-optimization",
-    "lingbot-vla",
+    "libero",
+    "mujoco",
+    "openvla",
     "robot-learning",
-    "robotwin",
+    "robotics",
+    "robustness",
     "vision-language-action"
    ],
-   "created_at": "2026-11-12T15:10:34Z",
-   "pushed_at": "2026-11-14T14:02:56Z"
-  },
-  {
-   "full_name": "notewillboy-prog/embodied-agent-bridge",
-   "url": "https://github.com/notewillboy-prog/embodied-agent-bridge",
-   "description": "本仓库尝试实现一种将智能体接入具身智能设备的通用方法，探索统一接口、设备适配和可控执行机制，欢迎社区通过 Issue 与 Pull Request 协作开发。",
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "ai-agents",
-    "device-adapter",
-    "embodied-ai",
-    "open-source",
-    "robotics"
-   ],
-   "created_at": "2026-11-12T02:49:53Z",
-   "pushed_at": "2026-11-12T03:19:29Z"
+   "created_at": "2026-11-15T15:26:51Z",
+   "pushed_at": "2026-11-15T15:31:37Z"
   },
   {
    "full_name": "md-selim-dev/AlgorOhm",
@@ -1329,6 +1495,24 @@
    "pushed_at": "2026-11-14T17:31:51Z"
   },
   {
+   "full_name": "NormanMises/RoomVerify-Nav",
+   "url": "https://github.com/NormanMises/RoomVerify-Nav",
+   "description": "Room-aware frontier reranking and proposal verification for zero-shot object navigation",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "embodied-ai",
+    "frontier-exploration",
+    "habitat",
+    "object-navigation",
+    "robotics",
+    "vision-language-model",
+    "zero-shot"
+   ],
+   "created_at": "2026-11-15T13:36:24Z",
+   "pushed_at": "2026-11-15T14:11:17Z"
+  },
+  {
    "full_name": "Anwarito-lbd/vector-autonomy-lab",
    "url": "https://github.com/Anwarito-lbd/vector-autonomy-lab",
    "description": "PhD-grade Robotics & Embodied AI Lab for Anki/DDL Vector: HAL, Behavior Trees, Vision/Voice Intent, and Log-Odds Occupancy-Grid SLAM",
@@ -1347,25 +1531,6 @@
    "pushed_at": "2026-11-13T21:24:33Z"
   },
   {
-   "full_name": "wadeld123-oss/awesome-embodied-infra",
-   "url": "https://github.com/wadeld123-oss/awesome-embodied-infra",
-   "description": "Curated list: embodied foundation models (VLA, robot FMs, world models) + AI infra for robotics. By Ethan Parker (@ethan_embodied).",
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "ai-infrastructure",
-    "awesome",
-    "awesome-list",
-    "embodied-ai",
-    "robot-learning",
-    "robotics",
-    "vla",
-    "world-models"
-   ],
-   "created_at": "2026-11-12T10:09:47Z",
-   "pushed_at": "2026-11-12T10:09:53Z"
-  },
-  {
    "full_name": "ZSN2024/AgenticJevNav",
    "url": "https://github.com/ZSN2024/AgenticJevNav",
    "description": "Agentic object search and navigation via event-driven verification. Simulation and physical robot reproduction code.",
@@ -1381,21 +1546,6 @@
    ],
    "created_at": "2026-11-14T04:57:34Z",
    "pushed_at": "2026-11-14T05:05:01Z"
-  },
-  {
-   "full_name": "aymen-000/VLAForge",
-   "url": "https://github.com/aymen-000/VLAForge",
-   "description": "VLAForge is a modular Python framework for building Vision-Language-Action models. It provides shared interfaces and data structures so model, dataset, training, and inference implementations can evolve independently.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "robotics",
-    "vision-language-action",
-    "vision-language-model",
-    "world-models"
-   ],
-   "created_at": "2026-11-14T19:40:13Z",
-   "pushed_at": "2026-11-14T22:36:14Z"
   },
   {
    "full_name": "cutelamb2026/RoboBenchMart-VLA-Portfolio",
@@ -1417,40 +1567,6 @@
    "pushed_at": "2026-11-13T06:45:37Z"
   },
   {
-   "full_name": "Larryhul/lingbot-vla-2-robotwin",
-   "url": "https://github.com/Larryhul/lingbot-vla-2-robotwin",
-   "description": "蚂蚁灵波具身大模型挑战赛（天池）初赛参赛记录：LingBot-VLA 2.0 × RoboTwin 50 任务 clean-only 后训练、评测管线与复现文档",
-   "stars": 0,
-   "language": "Jupyter Notebook",
-   "topics": [
-    "behavior-cloning",
-    "competition",
-    "lingbot-vla",
-    "robotwin",
-    "vla"
-   ],
-   "created_at": "2026-11-12T13:17:33Z",
-   "pushed_at": "2026-11-12T13:32:07Z"
-  },
-  {
-   "full_name": "armature-ai-labs/commutator",
-   "url": "https://github.com/armature-ai-labs/commutator",
-   "description": "An open-source AI gateway for robots: route every request to the right model, on the right compute, inside a safety envelope. Rust.",
-   "stars": 0,
-   "language": "Rust",
-   "topics": [
-    "ai-gateway",
-    "llm-router",
-    "physical-ai",
-    "robot-safety",
-    "robotics",
-    "rust",
-    "vla"
-   ],
-   "created_at": "2026-11-12T08:43:36Z",
-   "pushed_at": "2026-11-12T08:46:44Z"
-  },
-  {
    "full_name": "s4k10503/segment-scale-compensation",
    "url": "https://github.com/s4k10503/segment-scale-compensation",
    "description": "Segment scale compensation for Unity humanoid avatars",
@@ -1467,27 +1583,25 @@
    "pushed_at": "2026-11-14T12:39:31Z"
   },
   {
-   "full_name": "danielCH26/PontiBot",
-   "url": "https://github.com/danielCH26/PontiBot",
-   "description": "Robot humanoide TonyPi 18 DOF controlado con lenguaje natural: servidor MCP con 26 tools, LLM (NVIDIA NIM) y consola de chat. Proyecto universitario UPB.",
+   "full_name": "EdisonTKPcom/Awesome-Craft-Robotics",
+   "url": "https://github.com/EdisonTKPcom/Awesome-Craft-Robotics",
+   "description": "Open-source robotics: Microduck, Unitree SDKs, open humanoids and quadrupeds, LeRobot arms, VLA models, MuJoCo/Isaac simulation and ROS 2 stacks, with notes on Tesla Optimus claims.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "automation",
+    "awesome",
+    "awesome-list",
     "humanoid",
-    "llm",
-    "mcp",
-    "mcp-server",
-    "nvidia-nim",
-    "python",
-    "robot",
+    "lerobot",
+    "microduck",
+    "open-source",
+    "reinforcement-learning",
     "robotics",
-    "tonypi",
-    "universidad-pontificia-boliviana",
-    "upb"
+    "ros2",
+    "unitree"
    ],
-   "created_at": "2026-11-12T00:37:53Z",
-   "pushed_at": "2026-11-12T01:12:18Z"
+   "created_at": "2026-11-15T13:02:29Z",
+   "pushed_at": "2026-11-15T16:31:18Z"
   },
   {
    "full_name": "ookkshirsagar/galbot-mobile-order-picking",
@@ -1542,6 +1656,27 @@
    "pushed_at": "2026-11-14T16:25:06Z"
   },
   {
+   "full_name": "abdulkadrtr/hexapod-drl",
+   "url": "https://github.com/abdulkadrtr/hexapod-drl",
+   "description": "Wheel-legged hexapod robot trained with deep reinforcement learning in MuJoCo MJX. It rolls, walks, climbs stairs and keeps moving when its wheels or a leg fail.",
+   "stars": 0,
+   "language": "Jupyter Notebook",
+   "topics": [
+    "deep-reinforcement-learning",
+    "hexapod",
+    "legged-robots",
+    "mjx",
+    "mujoco",
+    "ppo",
+    "reinforcement-learning",
+    "robot-locomotion",
+    "robotics",
+    "simulation"
+   ],
+   "created_at": "2026-11-15T15:41:32Z",
+   "pushed_at": "2026-11-15T15:56:44Z"
+  },
+  {
    "full_name": "origin-data-lab/walking-vs-standing-real-workday-imu",
    "url": "https://github.com/origin-data-lab/walking-vs-standing-real-workday-imu",
    "description": "Origin Data Lab Technical Field Note #29: How much of a real workday is walking? The IMU says 6%, in 73 short trips an hour",
@@ -1561,6 +1696,27 @@
    ],
    "created_at": "2026-11-14T07:13:24Z",
    "pushed_at": "2026-11-14T07:13:33Z"
+  },
+  {
+   "full_name": "parkjb0826/roboaudit",
+   "url": "https://github.com/parkjb0826/roboaudit",
+   "description": "Health-check CLI for LeRobot datasets: a 100-point score, defect findings, and exclude/review/keep episode indexes — before you train.",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "data-audit",
+    "data-quality",
+    "dataset-quality",
+    "dataset-validation",
+    "huggingface",
+    "imitation-learning",
+    "lerobot",
+    "machine-learning",
+    "robot-learning",
+    "robotics"
+   ],
+   "created_at": "2026-11-15T23:00:00Z",
+   "pushed_at": "2026-11-15T23:02:54Z"
   },
   {
    "full_name": "argusscience/argus-gaze",
@@ -1647,24 +1803,23 @@
     "video-processing"
    ],
    "created_at": "2026-11-13T14:08:00Z",
-   "pushed_at": "2026-11-14T17:52:38Z"
+   "pushed_at": "2026-11-15T11:03:24Z"
   },
   {
-   "full_name": "couplet-physical-ai/robo-weld",
-   "url": "https://github.com/couplet-physical-ai/robo-weld",
-   "description": "Synthetic seam-tracking and correction-loop research demos",
+   "full_name": "yezzzzye/balanceBot-learn",
+   "url": "https://github.com/yezzzzye/balanceBot-learn",
+   "description": "Isaac Sim 5.1 / Isaac Lab 2.3.2 two-wheeled balancing robot: UI-authored USD assets, PPO training, velocity control and disturbance demos.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "dagger",
     "isaac-lab",
-    "research",
-    "robot-welding",
-    "robotics",
-    "simulation"
+    "isaac-sim",
+    "ppo",
+    "reinforcement-learning",
+    "robotics"
    ],
-   "created_at": "2026-11-12T03:05:19Z",
-   "pushed_at": "2026-11-12T03:05:22Z"
+   "created_at": "2026-11-15T05:46:09Z",
+   "pushed_at": "2026-11-15T05:46:20Z"
   },
   {
    "full_name": "Jackhammer9/isaac-sim-runpod",
@@ -1694,9 +1849,9 @@
    "pushed_at": "2026-11-14T17:47:26Z"
   },
   {
-   "full_name": "Chenghao-Huang1218/MultiUAV-windInteraction-simulation",
-   "url": "https://github.com/Chenghao-Huang1218/MultiUAV-windInteraction-simulation",
-   "description": "Multi-UAV wind interaction simulation in MuJoCo with dual PX4 SITL, artificial disturbance visualization, and cooperative payload transport.",
+   "full_name": "Chenghao-Huang1218/Wind_disturbance_simulation_part2",
+   "url": "https://github.com/Chenghao-Huang1218/Wind_disturbance_simulation_part2",
+   "description": "Multi-UAV wind interaction simulation in MuJoCo with multiple PX4 SITL, artificial disturbance visualization, and cooperative payload transport.",
    "stars": 0,
    "language": "Python",
    "topics": [
@@ -1709,7 +1864,7 @@
     "sitl"
    ],
    "created_at": "2026-11-14T11:17:46Z",
-   "pushed_at": "2026-11-14T14:04:06Z"
+   "pushed_at": "2026-11-15T05:55:38Z"
   },
   {
    "full_name": "wshengqil/diffusion-policy-piper-grasp",
@@ -1750,44 +1905,25 @@
    "pushed_at": "2026-11-13T14:31:45Z"
   },
   {
-   "full_name": "Yash-Kavaiya/mujoco-explainer-skills",
-   "url": "https://github.com/Yash-Kavaiya/mujoco-explainer-skills",
-   "description": "",
+   "full_name": "s63jp/ai-playground",
+   "url": "https://github.com/s63jp/ai-playground",
+   "description": "An experimental sandbox where AI agents autonomously explore a MuJoCo island: evidence-gated memory, neural-network learning, and a live dashboard.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "agent-skills",
-    "claude-code",
-    "claude-skills",
-    "explainer-video",
+    "agent-memory",
+    "ai-agents",
+    "autonomous-agents",
+    "fastapi",
+    "llm",
     "mujoco",
-    "physics-simulation",
-    "robotics",
-    "skill-md"
-   ],
-   "created_at": "2026-11-12T11:08:22Z",
-   "pushed_at": "2026-11-12T11:19:03Z"
-  },
-  {
-   "full_name": "NoGuarantee/humanoid-vr-teleop-and-imitation",
-   "url": "https://github.com/NoGuarantee/humanoid-vr-teleop-and-imitation",
-   "description": "VR-телеуправление гуманоидом Unitree G1 (Meta Quest 3, MuJoCo на шлеме) и обучение автономных политик по демонстрациям: Diffusion Policy, RL-дообучение контроллеров",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "computer-vision",
-    "diffusion-policy",
-    "humanoid-robotics",
-    "imitation-learning",
-    "meta-quest",
-    "mujoco",
-    "openxr",
+    "neural-networks",
+    "python",
     "reinforcement-learning",
-    "teleoperation",
-    "unitree-g1"
+    "simulation"
    ],
-   "created_at": "2026-11-12T09:00:31Z",
-   "pushed_at": "2026-11-12T09:24:25Z"
+   "created_at": "2026-11-15T17:01:49Z",
+   "pushed_at": "2026-11-15T17:19:21Z"
   },
   {
    "full_name": "lucabae/mappex",
@@ -1809,6 +1945,23 @@
    "pushed_at": "2026-11-13T11:00:33Z"
   },
   {
+   "full_name": "Notlord69/fly-connectome-arm",
+   "url": "https://github.com/Notlord69/fly-connectome-arm",
+   "description": "Fly Brain on Franka",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "connectome",
+    "drosophila",
+    "imitation-learning",
+    "mujoco",
+    "robotic",
+    "spiking-neural-network"
+   ],
+   "created_at": "2026-11-15T11:46:53Z",
+   "pushed_at": "2026-11-15T11:50:47Z"
+  },
+  {
    "full_name": "zhitaoqiu/D2-DualArm-HingeChest-ACT",
    "url": "https://github.com/zhitaoqiu/D2-DualArm-HingeChest-ACT",
    "description": "Dual-arm robotic manipulation with Action Chunking Transformer, human corrective demonstrations, and simulation benchmarks.",
@@ -1826,22 +1979,33 @@
    "pushed_at": "2026-11-13T07:54:14Z"
   },
   {
-   "full_name": "GeoffreyBian/egg-roulette",
-   "url": "https://github.com/GeoffreyBian/egg-roulette",
-   "description": "Can a robot learn how hard to squeeze from people wearing a touch glove? MuJoCo study on the SO-101: physics validation, ACT-style policies, 240 trained policies.",
+   "full_name": "TesfayZ/simaudit",
+   "url": "https://github.com/TesfayZ/simaudit",
+   "description": "Installable diagnostics for your own simulator, with explicit limits on what was assessed",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "imitation-learning",
-    "lerobot",
+    "debugging",
+    "diagnostics",
+    "gymnasium-environment",
+    "gymnasium-robotics",
+    "gymnation",
     "mujoco",
-    "robotics",
+    "mujoco-environments",
+    "mujoco-python",
+    "numerical-analysis",
+    "python",
+    "reinforcement-learning",
+    "reinforcement-learning-environments",
+    "scientific-computing",
     "simulation",
-    "so-101",
-    "tactile-sensing"
+    "simulation-modeling",
+    "simulations",
+    "simulator",
+    "test"
    ],
-   "created_at": "2026-11-14T01:39:56Z",
-   "pushed_at": "2026-11-14T01:40:07Z"
+   "created_at": "2026-11-14T21:35:21Z",
+   "pushed_at": "2026-11-15T16:45:49Z"
   },
   {
    "full_name": "tianrking/simple-rov",
@@ -1859,6 +2023,24 @@
    ],
    "created_at": "2026-11-14T05:48:56Z",
    "pushed_at": "2026-11-14T14:25:22Z"
+  },
+  {
+   "full_name": "GeoffreyBian/egg-roulette",
+   "url": "https://github.com/GeoffreyBian/egg-roulette",
+   "description": "Can a robot learn how hard to squeeze from people wearing a touch glove? MuJoCo study on the SO-101: physics validation, ACT-style policies, 240 trained policies.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "imitation-learning",
+    "lerobot",
+    "mujoco",
+    "robotics",
+    "simulation",
+    "so-101",
+    "tactile-sensing"
+   ],
+   "created_at": "2026-11-14T01:39:56Z",
+   "pushed_at": "2026-11-15T17:34:02Z"
   },
   {
    "full_name": "michall70/icim-tangram-sim",
@@ -1879,21 +2061,20 @@
    "pushed_at": "2026-11-13T14:38:15Z"
   },
   {
-   "full_name": "cusdn/gaussian-interaction-showcase",
-   "url": "https://github.com/cusdn/gaussian-interaction-showcase",
-   "description": "Research engineering showcase: Gaussian scene appearance, physical interaction, controlled experiments and measured limitations.",
+   "full_name": "Rohitjangra7370/physical-ai-stack",
+   "url": "https://github.com/Rohitjangra7370/physical-ai-stack",
+   "description": "Physical AI stack, built bottom-up: MuJoCo RL, CUDA edge compute, vision-language-action, world models",
    "stars": 0,
-   "language": "HTML",
+   "language": "Python",
    "topics": [
-    "computer-graphics",
-    "gaussian-splatting",
+    "cuda",
     "mujoco",
-    "research-showcase",
-    "robotics",
-    "simulation"
+    "physical-ai",
+    "reinforcement-learning",
+    "robotics"
    ],
-   "created_at": "2026-11-12T04:20:23Z",
-   "pushed_at": "2026-11-12T07:07:20Z"
+   "created_at": "2026-11-15T14:07:56Z",
+   "pushed_at": "2026-11-15T14:18:49Z"
   },
   {
    "full_name": "M-Colley/myosuite-reaf",
@@ -1913,59 +2094,7 @@
     "reinforcement-learning"
    ],
    "created_at": "2026-11-14T20:04:47Z",
-   "pushed_at": "2026-11-14T20:06:10Z"
-  },
-  {
-   "full_name": "CopyNinja07-07/hazardpay",
-   "url": "https://github.com/CopyNinja07-07/hazardpay",
-   "description": "Robot insurance priced by an AI that tries to break the robot first. MuJoCo + Gemini + PayPal Orders & Payouts. Live demo ↗",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "ag-grid",
-    "agentic-commerce",
-    "gemini",
-    "insurance",
-    "mujoco",
-    "paypal",
-    "red-teaming",
-    "render",
-    "robotics",
-    "threejs"
-   ],
-   "created_at": "2026-11-12T03:34:37Z",
-   "pushed_at": "2026-11-12T06:43:16Z"
-  },
-  {
-   "full_name": "dogum/ML-Ratchet",
-   "url": "https://github.com/dogum/ML-Ratchet",
-   "description": "Physics-first machine learning: neural networks trained only on physics simulations in real instrument noise, kept only when they ratchet up, graded on real data they never saw. Gravitational waves, earthquakes, exoplanets, asteroseismology, batteries, solar PV, bearings, ECG, ocean swell — numpy-on",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "asteroseismology",
-    "battery",
-    "deep-learning",
-    "ecg",
-    "exoplanets",
-    "gravitational-waves",
-    "machine-learning",
-    "model-cards",
-    "numpy",
-    "oceanography",
-    "open-science",
-    "physics-informed-machine-learning",
-    "predictive-maintenance",
-    "scientific-machine-learning",
-    "seismology",
-    "sim-to-real",
-    "simulation-based-inference",
-    "solar-energy",
-    "typescript",
-    "uncertainty-quantification"
-   ],
-   "created_at": "2026-11-12T19:46:37Z",
-   "pushed_at": "2026-11-14T22:42:34Z"
+   "pushed_at": "2026-11-15T12:19:07Z"
   },
   {
    "full_name": "DavidLXu/dexformer2",
@@ -1984,6 +2113,31 @@
    "pushed_at": "2026-11-14T00:26:44Z"
   },
   {
+   "full_name": "Bigkatoan/Hibiscus",
+   "url": "https://github.com/Bigkatoan/Hibiscus",
+   "description": "🌺 Hibiscus — a friendly, pixel-styled, self-hosted training platform for LeRobot: upload datasets, train ACT/Diffusion/VQ-BeT/SmolVLA on your GPUs, export verified ONNX bundles ready for the robot.",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "docker-compose",
+    "fastapi",
+    "huggingface",
+    "imitation-learning",
+    "lerobot",
+    "machine-learning",
+    "mlops",
+    "onnx",
+    "pixel-art",
+    "pytorch",
+    "react",
+    "robotics",
+    "self-hosted",
+    "training-platform"
+   ],
+   "created_at": "2026-11-15T15:47:15Z",
+   "pushed_at": "2026-11-15T21:33:44Z"
+  },
+  {
    "full_name": "dreamerarun/bimanual_rebot_cloth_folding_sim",
    "url": "https://github.com/dreamerarun/bimanual_rebot_cloth_folding_sim",
    "description": "Bimanual reBot B601 cloth folding in Isaac Sim 5.1 with a SmolVLA policy trained on 6 GB VRAM",
@@ -2000,26 +2154,6 @@
    ],
    "created_at": "2026-11-13T08:03:29Z",
    "pushed_at": "2026-11-13T08:40:03Z"
-  },
-  {
-   "full_name": "GowthamReddyKotha14/edge-or-cloud",
-   "url": "https://github.com/GowthamReddyKotha14/edge-or-cloud",
-   "description": "Where should a self-driving car think? 360 simulated drives comparing edge, cloud, and adaptive offloading of driving decisions over 5G, 4G, and weak signal. Digital-twin planner + distilled edge model.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [
-    "autonomous-driving",
-    "digital-twin",
-    "edge-computing",
-    "highway-env",
-    "imitation-learning",
-    "knowledge-distillation",
-    "latency",
-    "python",
-    "simulation"
-   ],
-   "created_at": "2026-11-12T02:27:00Z",
-   "pushed_at": "2026-11-13T00:44:24Z"
   },
   {
    "full_name": "SimonBure/risk-aware-bp-target",
@@ -2064,6 +2198,25 @@
    ],
    "created_at": "2026-11-13T07:15:05Z",
    "pushed_at": "2026-11-13T07:19:29Z"
+  },
+  {
+   "full_name": "kaidalisohaib/friction-cliff-bench",
+   "url": "https://github.com/kaidalisohaib/friction-cliff-bench",
+   "description": "Feasibility-audited, parity-controlled benchmark of car control under sudden tire-road friction loss: RMA-style PPO vs adaptive MPPI (C++/CUDA) vs oracles",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "autonomous-driving",
+    "benchmark",
+    "cuda",
+    "model-predictive-control",
+    "mppi",
+    "nvidia-warp",
+    "reinforcement-learning",
+    "vehicle-dynamics"
+   ],
+   "created_at": "2026-11-15T02:33:20Z",
+   "pushed_at": "2026-11-15T02:42:41Z"
   },
   {
    "full_name": "Julian1777/autonomous-truck-nmpc",
@@ -2117,74 +2270,58 @@
    "pushed_at": "2026-11-14T19:10:31Z"
   },
   {
-   "full_name": "kabilankb/cosmos3-bimanual-studio",
-   "url": "https://github.com/kabilankb/cosmos3-bimanual-studio",
-   "description": "Cosmos3-Nano-Sim-Bimanual world model on a Jetson AGX Orin: generate bimanual robot videos and publish them as Hugging Face / LeRobot datasets",
+   "full_name": "Walleclipse/tik-koopman",
+   "url": "https://github.com/Walleclipse/tik-koopman",
+   "description": "Tangent-Invariant Koopman (TIK): Making Koopman Control Guarantees Hold on Robots",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "bimanual",
-    "cosmos",
-    "huggingface",
-    "jetson",
-    "lerobot",
-    "robotics",
-    "world-model"
+    "control-theory",
+    "koopman",
+    "lqr",
+    "model-predictive-control",
+    "pytorch",
+    "robotics"
    ],
-   "created_at": "2026-11-14T17:23:28Z",
-   "pushed_at": "2026-11-14T17:57:10Z"
+   "created_at": "2026-11-14T18:57:25Z",
+   "pushed_at": "2026-11-15T18:22:37Z"
   },
   {
-   "full_name": "eduardoabreu81/pan2-forge-neo",
-   "url": "https://github.com/eduardoabreu81/pan2-forge-neo",
-   "description": "Generate videos of up to 20 seconds with PAN 2, the world model by IFM (MBZUAI), inside Stable Diffusion WebUI Forge Neo: text to video, image to video, and structured scene descriptions.",
+   "full_name": "Sky-Code06/SmartCharge-Adapt",
+   "url": "https://github.com/Sky-Code06/SmartCharge-Adapt",
+   "description": "Per-cell parameter-adaptive fast-charging control for degrading series Li-ion battery packs using parallel online RLS and constrained MPC.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "forge-neo",
-    "generative-ai",
-    "image-to-video",
-    "mbzuai",
-    "pan2",
-    "sd-webui-extension",
-    "stable-diffusion-webui",
-    "text-to-video",
-    "video-generation",
-    "world-model"
-   ],
-   "created_at": "2026-11-12T00:16:10Z",
-   "pushed_at": "2026-11-14T15:22:38Z"
-  },
-  {
-   "full_name": "Trinexis-Quantum/CoEvoGraph-SWE",
-   "url": "https://github.com/Trinexis-Quantum/CoEvoGraph-SWE",
-   "description": "Co-evolving knowledge graphs and counterfactual world models for repository repair: contract-aware Gemma 4 agents, ContractBench and ContractGate, on a single NVIDIA DGX Spark.",
-   "stars": 0,
-   "language": "Jupyter Notebook",
-   "topics": [
-    "apache-2",
-    "architecture-decision-records",
-    "automated-program-repair",
-    "benchmark",
-    "code-repair",
-    "contract-testing",
-    "dpo",
-    "execution-verified",
-    "gemma-4",
-    "grpo",
-    "knowledge-graph",
-    "llm-agents",
-    "lora",
-    "nvidia-dgx-spark",
+    "adaptive-control",
+    "battery-management-system",
+    "bms",
+    "electric-vehicles",
+    "lithium-ion",
+    "model-predictive-control",
     "python",
-    "reinforcement-learning",
-    "software-engineering",
-    "swe-bench",
-    "vllm",
-    "world-model"
+    "recursive-least-squares"
    ],
-   "created_at": "2026-11-12T01:20:53Z",
-   "pushed_at": "2026-11-12T01:44:07Z"
+   "created_at": "2026-11-14T23:22:03Z",
+   "pushed_at": "2026-11-14T23:22:28Z"
+  },
+  {
+   "full_name": "danup415/Comparison-Of-Various-Control-Strategies-on-HVAC",
+   "url": "https://github.com/danup415/Comparison-Of-Various-Control-Strategies-on-HVAC",
+   "description": "MATLAB/Simulink benchmark of thermostat, PID, MPC, DQN and hybrid HVAC control for a Pune apartment: code, results and paper.",
+   "stars": 0,
+   "language": "MATLAB",
+   "topics": [
+    "building-energy",
+    "hvac",
+    "indoor-air-quality",
+    "matlab",
+    "model-predictive-control",
+    "reinforcement-learning",
+    "simulink"
+   ],
+   "created_at": "2026-11-14T19:39:36Z",
+   "pushed_at": "2026-11-15T07:10:56Z"
   },
   {
    "full_name": "NyxFelineLabs/CT-WM",
@@ -2201,7 +2338,7 @@
     "world-model"
    ],
    "created_at": "2026-11-14T07:52:33Z",
-   "pushed_at": "2026-11-14T08:21:12Z"
+   "pushed_at": "2026-11-15T15:03:27Z"
   },
   {
    "full_name": "kkt94/Llama-V-JEPA-LM",
@@ -2218,6 +2355,61 @@
    ],
    "created_at": "2026-11-13T03:42:13Z",
    "pushed_at": "2026-11-13T13:46:52Z"
+  },
+  {
+   "full_name": "eljandoubi/world-persistence",
+   "url": "https://github.com/eljandoubi/world-persistence",
+   "description": "Synthetic occlusion benchmark: do action-conditioned next-frame predictors keep hidden objects consistent, and does rollout training help?",
+   "stars": 0,
+   "language": "Python",
+   "topics": [
+    "flow-matching",
+    "occlusion",
+    "onnx",
+    "pytorch",
+    "quantization",
+    "world-models"
+   ],
+   "created_at": "2026-11-15T11:09:32Z",
+   "pushed_at": "2026-11-15T20:32:14Z"
+  },
+  {
+   "full_name": "denorjp/bosatsu-model",
+   "url": "https://github.com/denorjp/bosatsu-model",
+   "description": "A cognitive architecture proposal based on life maintenance systems, neural circuits, weighting, and world models.",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "adaptive-systems",
+    "ai",
+    "cognition",
+    "cognitive-architecture",
+    "learning",
+    "metacognition",
+    "psychology",
+    "world-models"
+   ],
+   "created_at": "2026-11-15T05:20:06Z",
+   "pushed_at": "2026-11-15T06:19:13Z"
+  },
+  {
+   "full_name": "armit26/Velvet",
+   "url": "https://github.com/armit26/Velvet",
+   "description": "An experimental browser-based computer vision and spatial intelligence platform.",
+   "stars": 0,
+   "language": "CSS",
+   "topics": [
+    "computer-vision",
+    "machine-learning",
+    "mediapipe",
+    "react",
+    "spatial-intelligence",
+    "typescript",
+    "vite",
+    "web-development"
+   ],
+   "created_at": "2026-11-15T10:55:45Z",
+   "pushed_at": "2026-11-15T11:23:55Z"
   },
   {
    "full_name": "ufukasia/turb-stereo-vo",
@@ -2240,37 +2432,42 @@
    "pushed_at": "2026-11-14T14:51:21Z"
   },
   {
-   "full_name": "Gautier30/Panda-Rover",
-   "url": "https://github.com/Gautier30/Panda-Rover",
-   "description": "Panda Rover is an open-source mobile robot platform based on ROS 2, designed to be reproduced, modified and improved by anyone.",
-   "stars": 0,
-   "language": null,
-   "topics": [
-    "agv",
-    "amr",
-    "physical-ai",
-    "robotics",
-    "ros2",
-    "slam"
-   ],
-   "created_at": "2026-11-12T13:20:41Z",
-   "pushed_at": "2026-11-12T13:20:43Z"
-  },
-  {
-   "full_name": "gurmaan-singh/kartlagg",
-   "url": "https://github.com/gurmaan-singh/kartlagg",
-   "description": "2D lidar robot in simulation: particle-filter localisation and occupancy-grid mapping",
+   "full_name": "jnnproboticsinnovators/jnnp-robodojo-robot",
+   "url": "https://github.com/jnnproboticsinnovators/jnnp-robodojo-robot",
+   "description": "JNNP Robotics Innovators Club - autonomous waste management robot: Arduino, ROS 2, SLAM, Nav2, YOLO waste detection, Gazebo",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "localization",
-    "particle-filter",
-    "python",
+    "arduino",
+    "gazebo",
+    "nav2",
+    "raspberry-pi",
     "robotics",
-    "slam"
+    "ros2",
+    "slam",
+    "yolo"
    ],
-   "created_at": "2026-11-13T23:08:45Z",
-   "pushed_at": "2026-11-13T23:09:31Z"
+   "created_at": "2026-11-15T16:38:51Z",
+   "pushed_at": "2026-11-15T16:38:59Z"
+  },
+  {
+   "full_name": "Bangyu-Hong/robocup-autonomous-rescue",
+   "url": "https://github.com/Bangyu-Hong/robocup-autonomous-rescue",
+   "description": "ROS 1 environment mapping robot using Gmapping, laser scans, STM32F407 odometry and TF, with mapping source, demo and technical documentation.",
+   "stars": 0,
+   "language": "C",
+   "topics": [
+    "gmapping",
+    "mapping",
+    "robocup",
+    "robotics",
+    "ros1",
+    "rplidar",
+    "slam",
+    "stm32f407"
+   ],
+   "created_at": "2026-11-15T09:35:57Z",
+   "pushed_at": "2026-11-15T11:49:07Z"
   },
   {
    "full_name": "adamrsophie/robotcompR",
@@ -2304,47 +2501,42 @@
    "pushed_at": "2026-11-14T12:23:43Z"
   },
   {
-   "full_name": "WANGYINGYU/Occupancy-Joining",
-   "url": "https://github.com/WANGYINGYU/Occupancy-Joining",
-   "description": "ROS 2 / C++ implementation of grid-based occupancy submap joining, with Docker, RViz, and reproducible demos.",
+   "full_name": "gurmaan-singh/kartlagg",
+   "url": "https://github.com/gurmaan-singh/kartlagg",
+   "description": "2D lidar robot in simulation: particle-filter localisation and occupancy-grid mapping",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "cpp",
-    "occupancy-grid",
-    "ros2",
-    "slam",
-    "submap-joining"
+    "localization",
+    "particle-filter",
+    "python",
+    "robotics",
+    "slam"
    ],
-   "created_at": "2026-11-12T13:57:58Z",
-   "pushed_at": "2026-11-13T13:38:43Z"
+   "created_at": "2026-11-13T23:08:45Z",
+   "pushed_at": "2026-11-13T23:09:31Z"
   },
   {
-   "full_name": "4kprojekt/Roborock3d",
-   "url": "https://github.com/4kprojekt/Roborock3d",
-   "description": "Local 3D control panel + MCP server for Roborock vacuums running Valetudo: live raw lidar, sensor data, Wi-Fi heatmap, problem-spot detection, scripted routes. Lets AI agents (Claude) drive the robot. Tested on Roborock S5.",
+   "full_name": "Tsuki808/me-and-ROS",
+   "url": "https://github.com/Tsuki808/me-and-ROS",
+   "description": "Linux基础及ROS应用实践：ROS通信与TF2/PID、全自动建图取送、Qwen3-VL 语义取物，附 AUV 竞赛成果佐证",
    "stars": 0,
-   "language": "JavaScript",
+   "language": "Python",
    "topics": [
-    "ai-agents",
-    "claude",
-    "home-automation",
-    "lidar",
-    "mcp",
-    "mcp-server",
-    "python",
-    "roborock",
-    "roborock-s5",
-    "robot-vacuum",
+    "auv",
+    "gazebo",
+    "moveit",
+    "qwen3-vl",
+    "robocup",
+    "robot-arm",
+    "ros",
+    "ros-melodic",
     "slam",
-    "smart-home",
-    "threejs",
-    "valetudo",
-    "wifi-heatmap",
-    "xiaomi-vacuum"
+    "turtlebot3",
+    "vision-language-model"
    ],
-   "created_at": "2026-11-12T08:52:35Z",
-   "pushed_at": "2026-11-12T09:33:12Z"
+   "created_at": "2026-11-15T18:12:15Z",
+   "pushed_at": "2026-11-15T18:18:04Z"
   },
   {
    "full_name": "hugh82617/zeus-s2-rl-navigation",
@@ -2365,24 +2557,28 @@
     "slam"
    ],
    "created_at": "2026-11-14T16:14:42Z",
-   "pushed_at": "2026-11-14T16:34:29Z"
+   "pushed_at": "2026-11-15T05:41:07Z"
   },
   {
-   "full_name": "geguan657-lgtm/ssio-pgd",
-   "url": "https://github.com/geguan657-lgtm/ssio-pgd",
-   "description": "Evaluation scaffold for reproducing SSIO (arXiv:2610.25988): ATE/AVE/RPE metrics, dataset checks, and experiment templates for self-supervised inertial odometry",
+   "full_name": "danielesco1/Roomboard",
+   "url": "https://github.com/danielesco1/Roomboard",
+   "description": "Roomboard: narrated phone videos become explorable 3D Gaussian splat rooms with spoken highlights you can click to fly to.",
    "stars": 0,
    "language": "Python",
    "topics": [
-    "imu",
-    "inertial-odometry",
-    "odometry-evaluation",
-    "pose-graph-optimization",
-    "research-reproduction",
-    "slam"
+    "3d-reconstruction",
+    "elevenlabs",
+    "gaussian-splatting",
+    "hackathon",
+    "interior-design",
+    "open-source",
+    "spark",
+    "speech-to-text",
+    "threejs",
+    "world-labs"
    ],
-   "created_at": "2026-11-12T08:18:28Z",
-   "pushed_at": "2026-11-12T10:05:42Z"
+   "created_at": "2026-11-14T17:32:10Z",
+   "pushed_at": "2026-11-15T15:58:17Z"
   },
   {
    "full_name": "sudhanvad18/SpatialBuild",
@@ -2401,24 +2597,43 @@
    "pushed_at": "2026-11-13T04:02:04Z"
   },
   {
-   "full_name": "CursedPrograms/Terminus",
-   "url": "https://github.com/CursedPrograms/Terminus",
-   "description": "Photos to a textured 3D model on your own PC: AliceVision's photogrammetry in three steps, GLB, OBJ and STL out. Part of Atelier.",
+   "full_name": "dakidlosbeck-1929/3df-Zephyr-Free",
+   "url": "https://github.com/dakidlosbeck-1929/3df-Zephyr-Free",
+   "description": "3DF Zephyr Free is a powerful system tuning and utilities tool for Windows that enables effortless 3D model creation from images, featuring automatic image alignment and dense point cloud generation.",
+   "stars": 0,
+   "language": null,
+   "topics": [
+    "3d-reconstruction",
+    "3df-zephyr-free",
+    "archaeology-software",
+    "architecture-software",
+    "free-3df-zephyr",
+    "image-alignment",
+    "software-tools",
+    "windows"
+   ],
+   "created_at": "2026-11-15T02:56:10Z",
+   "pushed_at": "2026-11-15T22:39:40Z"
+  },
+  {
+   "full_name": "meshlab-3d/meshlab-software",
+   "url": "https://github.com/meshlab-3d/meshlab-software",
+   "description": "Use meshlab software to inspect scanned surfaces, clean redundant geometry, and simplify dense triangular meshes. Explore meshlab mesh processing with visual comparisons, surface reconstruction, and export checks, plus PyMeshLab recipes for repeatable cleanup and reduction.",
    "stars": 0,
    "language": "C++",
    "topics": [
+    "3d-printing",
     "3d-reconstruction",
     "3d-scanning",
-    "alicevision",
-    "atelier",
-    "cpp",
-    "cuda",
-    "imgui",
-    "meshroom",
-    "photogrammetry"
+    "geometry",
+    "mesh-editing",
+    "mesh-processing",
+    "mesh-simplification",
+    "point-cloud",
+    "triangle-mesh"
    ],
-   "created_at": "2026-11-12T12:06:15Z",
-   "pushed_at": "2026-11-13T09:09:56Z"
+   "created_at": "2026-11-15T07:07:09Z",
+   "pushed_at": "2026-11-15T07:09:40Z"
   },
   {
    "full_name": "seanking19960301/360spin",
@@ -2454,7 +2669,28 @@
     "webgl"
    ],
    "created_at": "2026-11-14T17:46:20Z",
-   "pushed_at": "2026-11-14T17:46:30Z"
+   "pushed_at": "2026-11-15T05:08:38Z"
+  },
+  {
+   "full_name": "guangxiangdebizi/mambadrone",
+   "url": "https://github.com/guangxiangdebizi/mambadrone",
+   "description": "让 AI Agent 一句话指挥大疆无人机：DJI Mobile SDK v4 安卓 App + 云端中转 + CLI（Mavic Mini 实测）",
+   "stars": 0,
+   "language": "Kotlin",
+   "topics": [
+    "3d-reconstruction",
+    "ai-agent",
+    "android",
+    "claude",
+    "dji",
+    "dji-sdk",
+    "drone",
+    "kotlin",
+    "mavic-mini",
+    "uav"
+   ],
+   "created_at": "2026-11-15T11:33:52Z",
+   "pushed_at": "2026-11-15T11:35:54Z"
   },
   {
    "full_name": "yuanrui3/local-3d-studio",
@@ -2525,126 +2761,6 @@
    "topics": [],
    "created_at": "2026-11-14T17:14:53Z",
    "pushed_at": "2026-11-14T18:13:27Z"
-  },
-  {
-   "full_name": "leoasalkind-cpu/autonomous-biped-robot",
-   "url": "https://github.com/leoasalkind-cpu/autonomous-biped-robot",
-   "description": "Autonomous bipedal robot integrating ROS 2, MuJoCo reinforcement learning, multimodal perception, and vision-language-action control.",
-   "stars": 0,
-   "language": null,
-   "topics": [],
-   "created_at": "2026-11-13T22:20:03Z",
-   "pushed_at": "2026-11-13T22:37:33Z"
-  },
-  {
-   "full_name": "fluffyTighnari/From_Multimodal_To_NanoVLA",
-   "url": "https://github.com/fluffyTighnari/From_Multimodal_To_NanoVLA",
-   "description": "the shortest path for a jackeroo to access NanoVLA(a simple skeleton of Vision Language Action)",
-   "stars": 0,
-   "language": null,
-   "topics": [],
-   "created_at": "2026-11-12T10:16:30Z",
-   "pushed_at": "2026-11-12T10:16:32Z"
-  },
-  {
-   "full_name": "AssetTool-Labs/script2play",
-   "url": "https://github.com/AssetTool-Labs/script2play",
-   "description": "From Game Generation to Game Playing: Fully Automated Ability Training for Vision-Language-Action Models (project page)",
-   "stars": 0,
-   "language": "HTML",
-   "topics": [],
-   "created_at": "2026-11-12T02:33:38Z",
-   "pushed_at": "2026-11-12T02:40:56Z"
-  },
-  {
-   "full_name": "heeh02/adv-vla-research",
-   "url": "https://github.com/heeh02/adv-vla-research",
-   "description": "Sensitivity Is Not Fragility — paper, data, and executable checks for visual responses and task outcomes in vision-language-action policies.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-12T08:44:49Z",
-   "pushed_at": "2026-11-13T06:06:07Z"
-  },
-  {
-   "full_name": "shivani708/Chain-of-causation-CoC-and-reasoning-for-Autonomous-Driving",
-   "url": "https://github.com/shivani708/Chain-of-causation-CoC-and-reasoning-for-Autonomous-Driving",
-   "description": "The Chain of Causation (CoC) in autonomous driving is a structured reasoning and annotation framework used by Vision-Language-Action (VLA) models (such as NVIDIA's Alpamayo or CoC-VLA architectures) to explicitly link raw environmental perception to concrete physical driving decisions",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-13T05:33:31Z",
-   "pushed_at": "2026-11-13T05:41:23Z"
-  },
-  {
-   "full_name": "Mekalasandeep311/Chain-of-causation-CoC-and-reasoning-for-Autonomous-Driving",
-   "url": "https://github.com/Mekalasandeep311/Chain-of-causation-CoC-and-reasoning-for-Autonomous-Driving",
-   "description": "The Chain of Causation (CoC) in autonomous driving is a structured reasoning and annotation framework used by Vision-Language-Action (VLA) models (such as NVIDIA's Alpamayo or CoC-VLA architectures) to explicitly link raw environmental perception to concrete physical driving decisions",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-13T06:08:27Z",
-   "pushed_at": "2026-11-13T06:28:21Z"
-  },
-  {
-   "full_name": "aPR0T0/robot-learning",
-   "url": "https://github.com/aPR0T0/robot-learning",
-   "description": "Configurable, node-based VLA pipeline: swap papers per stage via YAML",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-13T11:44:11Z",
-   "pushed_at": "2026-11-14T09:15:16Z"
-  },
-  {
-   "full_name": "techexplorer0123-tech/vla-simulation-research",
-   "url": "https://github.com/techexplorer0123-tech/vla-simulation-research",
-   "description": "VLA model experiments in simulated robotic environments",
-   "stars": 0,
-   "language": "Jupyter Notebook",
-   "topics": [],
-   "created_at": "2026-11-12T19:34:38Z",
-   "pushed_at": "2026-11-13T12:21:13Z"
-  },
-  {
-   "full_name": "YaolinDong/YaolinDong",
-   "url": "https://github.com/YaolinDong/YaolinDong",
-   "description": "GitHub profile · Robotics, embodied intelligence and VLA",
-   "stars": 0,
-   "language": null,
-   "topics": [],
-   "created_at": "2026-11-12T06:31:53Z",
-   "pushed_at": "2026-11-14T04:31:01Z"
-  },
-  {
-   "full_name": "armature-ai-labs/robot-model-index",
-   "url": "https://github.com/armature-ai-labs/robot-model-index",
-   "description": "AI models for robots, from LLMs to VLAs and world models: availability, pricing, licences, hardware fit and limitations. Every fact sourced and dated.",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-12T07:27:02Z",
-   "pushed_at": "2026-11-12T09:16:17Z"
-  },
-  {
-   "full_name": "PKM100/BoTTLE",
-   "url": "https://github.com/PKM100/BoTTLE",
-   "description": "BoTTLE: Benchmark of Task-level Total Latency & Energy for robot VLA models",
-   "stars": 0,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2026-11-14T21:56:41Z",
-   "pushed_at": "2026-11-14T21:59:53Z"
-  },
-  {
-   "full_name": "ANGELOREYES-afk/vla-arm-power-board",
-   "url": "https://github.com/ANGELOREYES-afk/vla-arm-power-board",
-   "description": "36 V regen brake and precharge board for a low-cost VLA robot arm (KiCad 8, Gerbers, BOM)",
-   "stars": 0,
-   "language": null,
-   "topics": [],
-   "created_at": "2026-11-12T18:42:01Z",
-   "pushed_at": "2026-11-12T18:43:01Z"
   }
  ],
  "star_growth_top": [
@@ -2652,7 +2768,7 @@
    "full_name": "bilawalsidhu/gods-eye-view",
    "url": "https://github.com/bilawalsidhu/gods-eye-view",
    "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-   "stars": 64860,
+   "stars": 65115,
    "language": "JavaScript",
    "topics": [
     "3d-globe",
@@ -2669,14 +2785,14 @@
     "worldview"
    ],
    "created_at": "2026-06-22T23:37:22Z",
-   "pushed_at": "2026-11-14T23:10:37Z",
-   "stars_delta": 184
+   "pushed_at": "2026-11-15T23:17:23Z",
+   "stars_delta": 255
   },
   {
    "full_name": "google-deepmind/mujoco",
    "url": "https://github.com/google-deepmind/mujoco",
    "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
-   "stars": 17977,
+   "stars": 18068,
    "language": "C++",
    "topics": [
     "mujoco",
@@ -2684,35 +2800,14 @@
     "robotics"
    ],
    "created_at": "2021-08-27T12:25:48Z",
-   "pushed_at": "2026-11-13T17:42:32Z",
-   "stars_delta": 108
-  },
-  {
-   "full_name": "earthtojake/text-to-cad",
-   "url": "https://github.com/earthtojake/text-to-cad",
-   "description": "Design physical products with AI",
-   "stars": 26324,
-   "language": "Python",
-   "topics": [
-    "agents",
-    "ai-agents",
-    "cad",
-    "mechanical-engineering",
-    "robotics",
-    "step",
-    "stl",
-    "stp",
-    "text-to-cad"
-   ],
-   "created_at": "2026-04-22T01:09:45Z",
-   "pushed_at": "2026-11-14T13:24:58Z",
-   "stars_delta": 65
+   "pushed_at": "2026-11-15T18:40:47Z",
+   "stars_delta": 91
   },
   {
    "full_name": "ruvnet/RuView",
    "url": "https://github.com/ruvnet/RuView",
    "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-   "stars": 104295,
+   "stars": 104371,
    "language": "Rust",
    "topics": [
     "claude",
@@ -2736,14 +2831,68 @@
     "wifi-security"
    ],
    "created_at": "2025-06-07T04:32:30Z",
-   "pushed_at": "2026-11-14T18:10:10Z",
+   "pushed_at": "2026-11-15T18:10:27Z",
+   "stars_delta": 76
+  },
+  {
+   "full_name": "earthtojake/text-to-cad",
+   "url": "https://github.com/earthtojake/text-to-cad",
+   "description": "Design physical products with AI",
+   "stars": 26382,
+   "language": "Python",
+   "topics": [
+    "agents",
+    "ai-agents",
+    "cad",
+    "mechanical-engineering",
+    "robotics",
+    "step",
+    "stl",
+    "stp",
+    "text-to-cad"
+   ],
+   "created_at": "2026-04-22T01:09:45Z",
+   "pushed_at": "2026-11-15T18:01:50Z",
    "stars_delta": 58
+  },
+  {
+   "full_name": "ArcheOne-AI/RoboScript",
+   "url": "https://github.com/ArcheOne-AI/RoboScript",
+   "description": "World In-Context Learning for Agentic Robot Manipulation",
+   "stars": 277,
+   "language": "Python",
+   "topics": [
+    "embodied-agent",
+    "embodied-ai",
+    "embodied-intelligence",
+    "manipulator-robotics"
+   ],
+   "created_at": "2026-11-05T12:55:29Z",
+   "pushed_at": "2026-11-10T12:57:16Z",
+   "stars_delta": 50
+  },
+  {
+   "full_name": "dexmal/opendm",
+   "url": "https://github.com/dexmal/opendm",
+   "description": "An Open-World Foundation Model for General-Purpose Embodied Intelligence.",
+   "stars": 2712,
+   "language": "Python",
+   "topics": [
+    "embodied-ai",
+    "embodied-intelligence",
+    "robotics",
+    "vision-language-action",
+    "vla"
+   ],
+   "created_at": "2026-07-06T06:10:23Z",
+   "pushed_at": "2026-11-06T08:56:55Z",
+   "stars_delta": 41
   },
   {
    "full_name": "eust-w/opengeniemaster",
    "url": "https://github.com/eust-w/opengeniemaster",
    "description": "Open-source embodied agent framework: execution, feedback, and continual improvement",
-   "stars": 414,
+   "stars": 449,
    "language": "Python",
    "topics": [
     "agent-harness",
@@ -2759,29 +2908,13 @@
    ],
    "created_at": "2026-10-27T11:27:29Z",
    "pushed_at": "2026-11-06T13:05:35Z",
-   "stars_delta": 51
-  },
-  {
-   "full_name": "jushengzhang/robot-weight-debugging",
-   "url": "https://github.com/jushengzhang/robot-weight-debugging",
-   "description": "First release for Can LLMs Debug Robots by Editing Their Weights? Code, 65-row edit, 16 experiment logs and evidence. V2 and real-robot experiments in progress.",
-   "stars": 111,
-   "language": "Python",
-   "topics": [
-    "model-editing",
-    "robotics",
-    "vision-language-action",
-    "weight-space-programming"
-   ],
-   "created_at": "2026-11-09T05:00:18Z",
-   "pushed_at": "2026-11-09T05:31:05Z",
-   "stars_delta": 49
+   "stars_delta": 35
   },
   {
    "full_name": "harry7557558/spirula-studio",
    "url": "https://github.com/harry7557558/spirula-studio",
    "description": "Cross-vendor 3D Gaussian Splatting trainer - video to splat to mesh, Vulkan or CUDA.",
-   "stars": 2414,
+   "stars": 2438,
    "language": "C++",
    "topics": [
     "360-camera",
@@ -2800,33 +2933,102 @@
     "vulkan"
    ],
    "created_at": "2024-05-04T03:03:05Z",
-   "pushed_at": "2026-11-14T22:59:40Z",
-   "stars_delta": 23
+   "pushed_at": "2026-11-15T22:58:36Z",
+   "stars_delta": 24
   },
   {
-   "full_name": "voyager-so/vauss",
-   "url": "https://github.com/voyager-so/vauss",
-   "description": "Fast Gaussian splat reconstruction for Blender, agents, and reusable 3D worlds",
-   "stars": 19,
-   "language": "Rust",
+   "full_name": "jushengzhang/robot-weight-debugging",
+   "url": "https://github.com/jushengzhang/robot-weight-debugging",
+   "description": "First release for Can LLMs Debug Robots by Editing Their Weights? Code, 65-row edit, 16 experiment logs and evidence. V2 and real-robot experiments in progress.",
+   "stars": 132,
+   "language": "Python",
    "topics": [
-    "3d-reconstruction",
-    "ai-agents",
-    "blender",
-    "computer-vision",
-    "gaussian-splatting",
-    "rust",
-    "structure-from-motion"
+    "model-editing",
+    "robotics",
+    "vision-language-action",
+    "weight-space-programming"
    ],
-   "created_at": "2026-11-12T01:56:44Z",
-   "pushed_at": "2026-11-14T21:56:37Z",
+   "created_at": "2026-11-09T05:00:18Z",
+   "pushed_at": "2026-11-09T05:31:05Z",
+   "stars_delta": 21
+  },
+  {
+   "full_name": "openrobokit/robokit",
+   "url": "https://github.com/openrobokit/robokit",
+   "description": "A high-performance, general-purpose toolkit for versatile robotic tasks.",
+   "stars": 258,
+   "language": "Python",
+   "topics": [
+    "inverse-kinematics",
+    "model-predictive-control",
+    "motion-planning",
+    "openrobokit",
+    "optimization",
+    "reinforcement-learning",
+    "robot-simulation",
+    "robotics"
+   ],
+   "created_at": "2026-10-30T12:23:49Z",
+   "pushed_at": "2026-11-06T16:44:25Z",
+   "stars_delta": 21
+  },
+  {
+   "full_name": "snazzybean/roommind",
+   "url": "https://github.com/snazzybean/roommind",
+   "description": "Intelligent room climate control for Home Assistant — self-learning MPC, proportional valve control, solar gain modeling",
+   "stars": 458,
+   "language": "Python",
+   "topics": [
+    "air-conditioning",
+    "climate-control",
+    "energy-saving",
+    "hacs",
+    "heat-pump",
+    "heating",
+    "home-assistant",
+    "home-assistant-custom-component",
+    "home-assistant-integration",
+    "home-automation",
+    "hvac",
+    "kalman-filter",
+    "model-predictive-control",
+    "radiator",
+    "smart-heating",
+    "smart-home",
+    "smart-thermostat",
+    "thermostat",
+    "trv",
+    "underfloor-heating"
+   ],
+   "created_at": "2026-02-18T19:15:16Z",
+   "pushed_at": "2026-11-15T20:40:11Z",
+   "stars_delta": 20
+  },
+  {
+   "full_name": "ShutongLiang/Neural-State-OS",
+   "url": "https://github.com/ShutongLiang/Neural-State-OS",
+   "description": "Calibrated internal-state modulation, readout, and neural observability for local dense language models.",
+   "stars": 20,
+   "language": "Python",
+   "topics": [
+    "activation-steering",
+    "affective-computing",
+    "embodied-ai",
+    "gemma",
+    "mechanistic-interpretability",
+    "mlx",
+    "pytorch",
+    "representation-engineering"
+   ],
+   "created_at": "2026-11-14T16:36:55Z",
+   "pushed_at": "2026-11-14T20:45:14Z",
    "stars_delta": 19
   },
   {
    "full_name": "NVIDIA/skills",
    "url": "https://github.com/NVIDIA/skills",
    "description": "Agent Skills for NVIDIA products — install into Claude Code, Codex, and other coding agents to run Physical AI, robotics, simulation, CUDA, and RAG workflows end to end.",
-   "stars": 3989,
+   "stars": 4006,
    "language": "Python",
    "topics": [
     "agent-skills",
@@ -2845,14 +3047,14 @@
     "simulation"
    ],
    "created_at": "2026-02-25T21:54:05Z",
-   "pushed_at": "2026-11-14T00:20:26Z",
-   "stars_delta": 18
+   "pushed_at": "2026-11-15T23:08:27Z",
+   "stars_delta": 17
   },
   {
    "full_name": "harvard-edge/cs249r_book",
    "url": "https://github.com/harvard-edge/cs249r_book",
    "description": "Machine Learning Systems: Foundations, Scaling, Agentic AI, and Physical AI (Vols I–IV) • Harvard CS249r | https://mlsysbook.ai",
-   "stars": 30203,
+   "stars": 30219,
    "language": "Python",
    "topics": [
     "agentic-ai",
@@ -2875,14 +3077,61 @@
     "tinyml"
    ],
    "created_at": "2023-09-06T19:31:06Z",
-   "pushed_at": "2026-11-14T18:25:25Z",
+   "pushed_at": "2026-11-15T20:48:01Z",
    "stars_delta": 16
+  },
+  {
+   "full_name": "huggingface/lerobot",
+   "url": "https://github.com/huggingface/lerobot",
+   "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
+   "stars": 28895,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2024-01-26T15:50:41Z",
+   "pushed_at": "2026-11-15T03:31:00Z",
+   "stars_delta": 16
+  },
+  {
+   "full_name": "rerun-io/rerun",
+   "url": "https://github.com/rerun-io/rerun",
+   "description": "Visualize, query, and stream to train on multimodal robotics data.",
+   "stars": 11813,
+   "language": "Rust",
+   "topics": [
+    "computer-vision",
+    "cpp",
+    "multimodal",
+    "python",
+    "robotics",
+    "rust",
+    "visualization"
+   ],
+   "created_at": "2022-04-08T07:30:05Z",
+   "pushed_at": "2026-11-15T22:01:37Z",
+   "stars_delta": 15
+  },
+  {
+   "full_name": "Jaasssoooonnnnn/FirstLight_CR",
+   "url": "https://github.com/Jaasssoooonnnnn/FirstLight_CR",
+   "description": "Offline Clash Royale AI agent research: native simulation, imitation learning, PPO, and interactive evaluation. 离线对局模拟、模仿学习、强化学习与交互评测。",
+   "stars": 304,
+   "language": "Python",
+   "topics": [
+    "ai",
+    "deep-learning",
+    "imitation-learning",
+    "reinforcement-learning",
+    "self-play"
+   ],
+   "created_at": "2026-09-06T01:07:06Z",
+   "pushed_at": "2026-10-31T20:26:13Z",
+   "stars_delta": 14
   },
   {
    "full_name": "vllm-project/vllm-omni",
    "url": "https://github.com/vllm-project/vllm-omni",
    "description": "A framework for efficient model inference with omni-modality models",
-   "stars": 7758,
+   "stars": 7772,
    "language": "Python",
    "topics": [
     "audio-generation",
@@ -2897,14 +3146,14 @@
     "world-model"
    ],
    "created_at": "2025-09-11T00:34:43Z",
-   "pushed_at": "2026-11-14T22:13:06Z",
-   "stars_delta": 16
+   "pushed_at": "2026-11-15T23:08:00Z",
+   "stars_delta": 14
   },
   {
    "full_name": "uclanlp/OpenVLHarness",
    "url": "https://github.com/uclanlp/OpenVLHarness",
    "description": "Official Code for OpenVLHarness: Real-World Visual Agentic Tool‑Use with Multimodal Memory",
-   "stars": 500,
+   "stars": 513,
    "language": "Python",
    "topics": [
     "agent-harness",
@@ -2930,33 +3179,13 @@
    ],
    "created_at": "2026-10-15T06:01:30Z",
    "pushed_at": "2026-11-10T23:49:11Z",
-   "stars_delta": 16
-  },
-  {
-   "full_name": "openrobokit/robokit",
-   "url": "https://github.com/openrobokit/robokit",
-   "description": "A high-performance, general-purpose toolkit for versatile robotic tasks.",
-   "stars": 237,
-   "language": "Python",
-   "topics": [
-    "inverse-kinematics",
-    "model-predictive-control",
-    "motion-planning",
-    "openrobokit",
-    "optimization",
-    "reinforcement-learning",
-    "robot-simulation",
-    "robotics"
-   ],
-   "created_at": "2026-10-30T12:23:49Z",
-   "pushed_at": "2026-11-06T16:44:25Z",
-   "stars_delta": 14
+   "stars_delta": 13
   },
   {
    "full_name": "Developer-Y/cs-video-courses",
    "url": "https://github.com/Developer-Y/cs-video-courses",
    "description": "List of Computer Science courses with video lectures.",
-   "stars": 84846,
+   "stars": 84858,
    "language": null,
    "topics": [
     "algorithms",
@@ -2979,108 +3208,14 @@
     "web-development"
    ],
    "created_at": "2016-10-21T17:02:11Z",
-   "pushed_at": "2026-11-10T20:56:44Z",
-   "stars_delta": 13
-  },
-  {
-   "full_name": "LuwuDynamics/xgoduck_hardware",
-   "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
-   "description": "Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own.",
-   "stars": 1935,
-   "language": "Game Maker Language",
-   "topics": [
-    "3d-printing",
-    "arduino",
-    "bipedal-robots",
-    "diy",
-    "legged-robots",
-    "microduck",
-    "robotics"
-   ],
-   "created_at": "2026-09-24T08:39:53Z",
-   "pushed_at": "2026-11-13T09:20:36Z",
-   "stars_delta": 13
-  },
-  {
-   "full_name": "huggingface/lerobot",
-   "url": "https://github.com/huggingface/lerobot",
-   "description": "🤗 LeRobot: Making AI for Robotics more accessible with end-to-end learning",
-   "stars": 28879,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2024-01-26T15:50:41Z",
-   "pushed_at": "2026-11-14T11:35:42Z",
-   "stars_delta": 13
-  },
-  {
-   "full_name": "Jaasssoooonnnnn/FirstLight_CR",
-   "url": "https://github.com/Jaasssoooonnnnn/FirstLight_CR",
-   "description": "Offline Clash Royale AI agent research: native simulation, imitation learning, PPO, and interactive evaluation. 离线对局模拟、模仿学习、强化学习与交互评测。",
-   "stars": 290,
-   "language": "Python",
-   "topics": [
-    "ai",
-    "deep-learning",
-    "imitation-learning",
-    "reinforcement-learning",
-    "self-play"
-   ],
-   "created_at": "2026-09-06T01:07:06Z",
-   "pushed_at": "2026-10-31T20:26:13Z",
+   "pushed_at": "2026-11-15T09:20:21Z",
    "stars_delta": 12
-  },
-  {
-   "full_name": "ShisatoYano/AutonomousVehicleControlBeginnersGuide",
-   "url": "https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide",
-   "description": "Learn autonomous driving by building it: Python simulations and an open textbook where the system grows one stage at a time. Swap and compare localization, planning and control algorithms in the same system.",
-   "stars": 1954,
-   "language": "Python",
-   "topics": [
-    "algorithm",
-    "autonomous-driving",
-    "autonomous-navigation",
-    "autonomous-vehicles",
-    "education",
-    "kalman-filter",
-    "localization",
-    "mapping",
-    "model-predictive-control",
-    "object-detection",
-    "object-tracking",
-    "path-planning",
-    "path-tracking",
-    "perception",
-    "python",
-    "robotics",
-    "self-driving-car",
-    "simulation",
-    "slam",
-    "textbook"
-   ],
-   "created_at": "2022-07-01T14:00:16Z",
-   "pushed_at": "2026-11-14T08:37:51Z",
-   "stars_delta": 12
-  },
-  {
-   "full_name": "dorianborian/sesame-robot",
-   "url": "https://github.com/dorianborian/sesame-robot",
-   "description": "An open and affordable mini quadruped robot based on ESP32.",
-   "stars": 5069,
-   "language": "C",
-   "topics": [
-    "hardware",
-    "robotics",
-    "walking-robot"
-   ],
-   "created_at": "2025-11-21T18:30:15Z",
-   "pushed_at": "2026-11-14T22:35:46Z",
-   "stars_delta": 11
   },
   {
    "full_name": "Octoday-Hub/Embodied-AI",
    "url": "https://github.com/Octoday-Hub/Embodied-AI",
    "description": "「Octoday Hub 星期八具身智能生态社区」聚合论文、项目、课程、工具、数据集、招聘等资源，连接全球开发者、研究者与产业伙伴。",
-   "stars": 3116,
+   "stars": 3127,
    "language": null,
    "topics": [
     "awesome-list",
@@ -3099,107 +3234,41 @@
    "stars_delta": 11
   },
   {
-   "full_name": "ArduPilot/ardupilot",
-   "url": "https://github.com/ArduPilot/ardupilot",
-   "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
-   "stars": 16366,
-   "language": "C++",
-   "topics": [
-    "arducopter",
-    "ardupilot",
-    "arduplane",
-    "ardurover",
-    "ardusub",
-    "autopilot",
-    "auv",
-    "copter",
-    "drone",
-    "dronekit",
-    "mavlink",
-    "plane",
-    "robotics",
-    "ros",
-    "rov",
-    "rover",
-    "sub",
-    "uas",
-    "uav",
-    "ugv"
-   ],
-   "created_at": "2013-01-09T00:58:52Z",
-   "pushed_at": "2026-11-14T11:33:53Z",
-   "stars_delta": 9
-  },
-  {
-   "full_name": "rerun-io/rerun",
-   "url": "https://github.com/rerun-io/rerun",
-   "description": "Visualize, query, and stream to train on multimodal robotics data.",
-   "stars": 11798,
-   "language": "Rust",
-   "topics": [
-    "computer-vision",
-    "cpp",
-    "multimodal",
-    "python",
-    "robotics",
-    "rust",
-    "visualization"
-   ],
-   "created_at": "2022-04-08T07:30:05Z",
-   "pushed_at": "2026-11-13T23:06:52Z",
-   "stars_delta": 9
-  },
-  {
-   "full_name": "james-joobs/awesome-nvidia-physical-ai",
-   "url": "https://github.com/james-joobs/awesome-nvidia-physical-ai",
-   "description": "An independent bilingual guide to NVIDIA Physical AI. Find tools, models, and workflows for robotics, simulation, and autonomous driving.",
-   "stars": 44,
+   "full_name": "commaai/openpilot",
+   "url": "https://github.com/commaai/openpilot",
+   "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+   "stars": 64148,
    "language": "Python",
    "topics": [
-    "autonomous-driving",
-    "awesome-list",
-    "digital-twin",
-    "isaac-lab",
+    "advanced-driver-assistance-systems",
+    "driver-assistance-systems",
+    "robotics"
+   ],
+   "created_at": "2016-11-24T01:33:30Z",
+   "pushed_at": "2026-11-15T22:42:47Z",
+   "stars_delta": 10
+  },
+  {
+   "full_name": "isaac-sim/IsaacLab",
+   "url": "https://github.com/isaac-sim/IsaacLab",
+   "description": "Unified framework for robot learning with multi-physics/renderer support",
+   "stars": 8657,
+   "language": "Python",
+   "topics": [
     "isaac-sim",
-    "nvidia",
-    "openusd",
-    "physical-ai",
-    "robot-foundation-models",
+    "omniverse-kit-extension",
     "robot-learning",
-    "robotics",
-    "simulation",
-    "synthetic-data",
-    "vision-language-action"
+    "robotics"
    ],
-   "created_at": "2026-11-09T07:00:35Z",
-   "pushed_at": "2026-11-13T04:05:20Z",
-   "stars_delta": 9
-  },
-  {
-   "full_name": "SkyworkAI/Matrix-Game",
-   "url": "https://github.com/SkyworkAI/Matrix-Game",
-   "description": "Matrix-Game 4.0: Streaming Neural Rendering for Playable Games",
-   "stars": 2919,
-   "language": "Python",
-   "topics": [
-    "genie",
-    "interactive-video",
-    "long-horizon-memory",
-    "long-sequence",
-    "long-video",
-    "real-time",
-    "video-generation",
-    "world-model"
-   ],
-   "created_at": "2025-05-06T10:01:43Z",
-   "pushed_at": "2026-10-29T02:26:29Z",
-   "stars_delta": 9
+   "created_at": "2022-11-16T23:55:13Z",
+   "pushed_at": "2026-11-15T19:58:56Z",
+   "stars_delta": 10
   },
   {
    "full_name": "ZihanYou/Language2Drive",
    "url": "https://github.com/ZihanYou/Language2Drive",
    "description": "Langauge2Drive: Do Vision-Language-Action Models Really Follow the Instructions in Autonomous Driving?",
-   "stars": 90,
+   "stars": 99,
    "language": "Python",
    "topics": [
     "autonomous-driving",
@@ -3210,89 +3279,202 @@
    ],
    "created_at": "2026-05-03T16:34:24Z",
    "pushed_at": "2026-10-17T09:31:01Z",
-   "stars_delta": 8
+   "stars_delta": 9
   },
   {
-   "full_name": "VAST-AI-Research/TripoSR",
-   "url": "https://github.com/VAST-AI-Research/TripoSR",
-   "description": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
-   "stars": 7389,
+   "full_name": "NVlabs/Sana",
+   "url": "https://github.com/NVlabs/Sana",
+   "description": "SANA & Sol: Efficient Generative Models and Full-Stack Training & Inference Engines for Image, Video, and World Modeling",
+   "stars": 9839,
    "language": "Python",
    "topics": [
-    "3d-assets",
-    "3d-reconstruction",
-    "feed-forward-3d",
-    "generative-3d",
-    "tripo"
+    "diffusion",
+    "dit",
+    "linear-transformer",
+    "nvfp4",
+    "pytorch",
+    "reinforcement-learning",
+    "sana",
+    "streaming-video",
+    "system-algorithm-deisgn",
+    "text-to-image-generation",
+    "text-to-video",
+    "transformers",
+    "video-generation",
+    "world-models"
    ],
-   "created_at": "2024-02-07T10:31:04Z",
-   "pushed_at": "2026-06-04T07:11:09Z",
-   "stars_delta": 8
+   "created_at": "2024-10-11T20:19:45Z",
+   "pushed_at": "2026-11-14T15:51:56Z",
+   "stars_delta": 9
   },
   {
-   "full_name": "TianxingChen/Embodied-AI-Guide",
-   "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
-   "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
-   "stars": 16959,
+   "full_name": "miao-org/awesome-supermimic",
+   "url": "https://github.com/miao-org/awesome-supermimic",
+   "description": "A curated collection of SuperMimic implementations, extensions, demos, and resources.",
+   "stars": 608,
    "language": null,
    "topics": [
-    "embodied",
+    "awesome-list",
+    "humanoid-robotics",
+    "motion-tracking",
+    "supermimic",
+    "world-model"
+   ],
+   "created_at": "2026-10-26T02:49:01Z",
+   "pushed_at": "2026-11-13T12:58:29Z",
+   "stars_delta": 8
+  },
+  {
+   "full_name": "fuyichen0725/blinkmimic",
+   "url": "https://github.com/fuyichen0725/blinkmimic",
+   "description": "Whole-body motion tracking for the Unitree G1 in about 3 minutes on one GPU.",
+   "stars": 239,
+   "language": "Python",
+   "topics": [
+    "humanoid-robotics",
+    "lafan1",
+    "mjlab",
+    "motion-tracking",
+    "mujoco-warp",
+    "supermimic",
+    "unitree-g1",
+    "world-model"
+   ],
+   "created_at": "2026-11-02T21:22:40Z",
+   "pushed_at": "2026-11-03T01:58:28Z",
+   "stars_delta": 8
+  },
+  {
+   "full_name": "datawhalechina/every-embodied",
+   "url": "https://github.com/datawhalechina/every-embodied",
+   "description": "仅需Python基础，从0构建自己的具身智能机器人；从0逐步构建VLA/OpenVLA/SmolVLA/Pi0， 深入理解具身智能",
+   "stars": 4490,
+   "language": "Jupyter Notebook",
+   "topics": [
+    "embodied-agent",
     "embodied-ai",
-    "guide",
-    "robot",
-    "robotic",
-    "robotics",
-    "tutorial"
+    "embodied-intelligence",
+    "openvla",
+    "smolvla",
+    "vision-language-action-model"
    ],
-   "created_at": "2024-05-17T04:29:13Z",
-   "pushed_at": "2026-10-25T08:51:49Z",
+   "created_at": "2024-12-08T13:33:40Z",
+   "pushed_at": "2026-11-14T08:27:33Z",
    "stars_delta": 7
   },
   {
-   "full_name": "google-deepmind/mujoco_menagerie",
-   "url": "https://github.com/google-deepmind/mujoco_menagerie",
-   "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
-   "stars": 4369,
+   "full_name": "Huy-Quang-Dao/instantTrack",
+   "url": "https://github.com/Huy-Quang-Dao/instantTrack",
+   "description": "Whole-body motion tracking for the Unitree G1 in under 3 minutes on average on one GPU: return 0.82 with 0/40 clips failed, held from 2.74 min (mean of 15 seeds, range 2.21-3.61, fine checkpoints), 11.87 it/s (world model + Muon + overlapped CUDA streams, mjlab)",
+   "stars": 207,
    "language": "Python",
    "topics": [
+    "humanoid",
+    "robot-learning",
+    "supermimic",
+    "world-model"
+   ],
+   "created_at": "2026-10-29T06:30:45Z",
+   "pushed_at": "2026-11-07T02:42:16Z",
+   "stars_delta": 7
+  },
+  {
+   "full_name": "LuwuDynamics/xgoduck_hardware",
+   "url": "https://github.com/LuwuDynamics/xgoduck_hardware",
+   "description": "Build your own robot duck. XGO-Duck is a 3D-printable biped powered by Arduino UNO Q and 15 servos, adapted from Pollen Robotics' Microduck. Includes mechanical models, PCB designs, a BOM, and an assembly guide. Build it, explore its motion, and make it your own.",
+   "stars": 1942,
+   "language": "Game Maker Language",
+   "topics": [
+    "3d-printing",
+    "arduino",
+    "bipedal-robots",
+    "diy",
+    "legged-robots",
+    "microduck",
+    "robotics"
+   ],
+   "created_at": "2026-09-24T08:39:53Z",
+   "pushed_at": "2026-11-13T09:20:36Z",
+   "stars_delta": 7
+  },
+  {
+   "full_name": "mujocolab/mjlab",
+   "url": "https://github.com/mujocolab/mjlab",
+   "description": "Isaac Lab API, powered by MuJoCo-Warp, for RL and robotics research",
+   "stars": 3407,
+   "language": "Python",
+   "topics": [
+    "isaaclab",
     "mujoco",
-    "robotics"
+    "mujoco-warp",
+    "reinforcement-learning",
+    "robotics-simulation"
    ],
-   "created_at": "2022-09-05T10:37:53Z",
-   "pushed_at": "2026-11-10T20:21:12Z",
+   "created_at": "2025-06-10T02:34:09Z",
+   "pushed_at": "2026-11-15T01:53:45Z",
    "stars_delta": 7
   },
   {
-   "full_name": "Physical-Intelligence/openpi",
-   "url": "https://github.com/Physical-Intelligence/openpi",
-   "description": "",
-   "stars": 14649,
-   "language": "Python",
-   "topics": [],
-   "created_at": "2024-10-21T15:23:28Z",
-   "pushed_at": "2026-08-24T16:27:13Z",
-   "stars_delta": 7
-  },
-  {
-   "full_name": "commaai/openpilot",
-   "url": "https://github.com/commaai/openpilot",
-   "description": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-   "stars": 64138,
+   "full_name": "makerspet/oomwoo",
+   "url": "https://github.com/makerspet/oomwoo",
+   "description": "Open-source vacuum robot cleaner",
+   "stars": 13106,
    "language": "Python",
    "topics": [
-    "advanced-driver-assistance-systems",
-    "driver-assistance-systems",
-    "robotics"
+    "3d-printing",
+    "arduino",
+    "diy-electronics",
+    "diy-project",
+    "esp32",
+    "esp32-arduino",
+    "home-assistant",
+    "lidar",
+    "lidar-slam",
+    "raspberry-pi",
+    "ros2",
+    "slam",
+    "vacuum-cleaner",
+    "vacuum-robot"
    ],
-   "created_at": "2016-11-24T01:33:30Z",
-   "pushed_at": "2026-11-14T22:45:08Z",
-   "stars_delta": 6
+   "created_at": "2026-06-10T06:03:33Z",
+   "pushed_at": "2026-11-12T06:34:04Z",
+   "stars_delta": 7
+  },
+  {
+   "full_name": "DLR-RM/BlenderProc",
+   "url": "https://github.com/DLR-RM/BlenderProc",
+   "description": "A procedural Blender pipeline for photorealistic training image generation",
+   "stars": 3796,
+   "language": "Python",
+   "topics": [
+    "3d-engines",
+    "3d-front-dataset",
+    "3d-graphics",
+    "3d-reconstruction",
+    "blender",
+    "blender-installation",
+    "blender-pipeline",
+    "camera-positions",
+    "camera-sampling",
+    "computer-graphics",
+    "depth-images",
+    "pose-estimation",
+    "python",
+    "rendering",
+    "segmentation",
+    "suncg-scene",
+    "synthetic",
+    "synthetic-data"
+   ],
+   "created_at": "2019-10-10T11:29:14Z",
+   "pushed_at": "2026-01-20T18:01:09Z",
+   "stars_delta": 7
   },
   {
    "full_name": "AtsushiSakai/PythonRobotics",
    "url": "https://github.com/AtsushiSakai/PythonRobotics",
    "description": "Python sample codes and textbook for robotics algorithms.",
-   "stars": 30916,
+   "stars": 30922,
    "language": "Python",
    "topics": [
     "algorithm",
@@ -3317,137 +3499,10 @@
    "stars_delta": 6
   },
   {
-   "full_name": "kiloreux/awesome-robotics",
-   "url": "https://github.com/kiloreux/awesome-robotics",
-   "description": "A list of awesome Robotics resources",
-   "stars": 7310,
-   "language": null,
-   "topics": [
-    "robotics"
-   ],
-   "created_at": "2015-11-26T16:53:05Z",
-   "pushed_at": "2024-09-22T20:24:10Z",
-   "stars_delta": 6
-  },
-  {
-   "full_name": "argonrobotics-ai/alloy",
-   "url": "https://github.com/argonrobotics-ai/alloy",
-   "description": "Alloy: a multi-material, parallel physics engine for robot learning, built on Newton, MuJoCo Warp and Warp. Rigid robots, cloth, liquids and soft bodies in one scene, in parallel worlds on a GPU (thousands for free rigid bodies, up to 4,096 for a robot arm), or on a CPU. Python 3.11 or 3.12.",
-   "stars": 39,
-   "language": "Python",
-   "topics": [
-    "ai-agents",
-    "cloth-simulation",
-    "fluid-simulation",
-    "gpu",
-    "gymnasium",
-    "imitation-learning",
-    "mujoco",
-    "mujoco-warp",
-    "newton-physics",
-    "physics-engine",
-    "physics-simulation",
-    "python",
-    "reinforcement-learning",
-    "robot-learning",
-    "robot-simulation",
-    "robotics",
-    "sim-to-real",
-    "simulation",
-    "soft-body",
-    "warp"
-   ],
-   "created_at": "2026-11-11T20:23:06Z",
-   "pushed_at": "2026-11-13T21:38:37Z",
-   "stars_delta": 6
-  },
-  {
-   "full_name": "makerspet/oomwoo",
-   "url": "https://github.com/makerspet/oomwoo",
-   "description": "Open-source vacuum robot cleaner",
-   "stars": 13099,
-   "language": "Python",
-   "topics": [
-    "3d-printing",
-    "arduino",
-    "diy-electronics",
-    "diy-project",
-    "esp32",
-    "esp32-arduino",
-    "home-assistant",
-    "lidar",
-    "lidar-slam",
-    "raspberry-pi",
-    "ros2",
-    "slam",
-    "vacuum-cleaner",
-    "vacuum-robot"
-   ],
-   "created_at": "2026-06-10T06:03:33Z",
-   "pushed_at": "2026-11-12T06:34:04Z",
-   "stars_delta": 6
-  },
-  {
-   "full_name": "PetoiCamp/OpenCat-Quadruped-Robot",
-   "url": "https://github.com/PetoiCamp/OpenCat-Quadruped-Robot",
-   "description": "An open source quadruped robot pet framework for developing Boston Dynamics-style four-legged robots that are perfect for STEM, coding & robotics education, IoT robotics applications, AI-enhanced robotics application services, research, and DIY robotics kit development. ",
-   "stars": 5563,
-   "language": "C++",
-   "topics": [
-    "ai",
-    "arduino",
-    "block-coding",
-    "education",
-    "iot",
-    "legged-robot",
-    "physical-ai",
-    "quadruped",
-    "quadruped-robot-gaits",
-    "raspberry-pi",
-    "reinforcement-learning",
-    "robot-cat",
-    "robot-dog",
-    "robot-kit",
-    "robotics",
-    "robotics-education",
-    "simulation",
-    "stem",
-    "visual-programming",
-    "walking"
-   ],
-   "created_at": "2021-01-03T15:42:00Z",
-   "pushed_at": "2026-11-12T05:04:53Z",
-   "stars_delta": 5
-  },
-  {
-   "full_name": "mithi/robotics-coursework",
-   "url": "https://github.com/mithi/robotics-coursework",
-   "description": "🤖 Places where you can learn robotics (and stuff like that) online 🤖",
-   "stars": 5392,
-   "language": null,
-   "topics": [
-    "algorithm",
-    "algorithms",
-    "computer-science",
-    "coursera",
-    "edx",
-    "learning",
-    "moocs",
-    "robotics",
-    "ros",
-    "self-learning",
-    "udacity",
-    "university"
-   ],
-   "created_at": "2017-06-24T14:45:17Z",
-   "pushed_at": "2026-08-31T14:12:27Z",
-   "stars_delta": 5
-  },
-  {
    "full_name": "ros-navigation/navigation2",
    "url": "https://github.com/ros-navigation/navigation2",
    "description": "ROS 2 Navigation Framework and System",
-   "stars": 5052,
+   "stars": 5058,
    "language": "C++",
    "topics": [
     "navigation",
@@ -3456,281 +3511,398 @@
    ],
    "created_at": "2018-05-29T23:35:08Z",
    "pushed_at": "2026-11-13T18:59:25Z",
-   "stars_delta": 5
+   "stars_delta": 6
   },
   {
-   "full_name": "enactic/openarm",
-   "url": "https://github.com/enactic/openarm",
-   "description": "A fully open-source humanoid arm for physical AI research and deployment in contact-rich environments.",
-   "stars": 3703,
-   "language": "MDX",
-   "topics": [
-    "bilateral-teleoperation",
-    "force-feedback",
-    "genesis",
-    "gravity-compensation",
-    "humanoid-robot",
-    "imitation-learning",
-    "machine-learning",
-    "moveit2",
-    "mujoco",
-    "open-source",
-    "openarm",
-    "python",
-    "reinforcement-learning",
-    "robot",
-    "robot-arm",
-    "robotics",
-    "ros2",
-    "teleoperation"
-   ],
-   "created_at": "2024-09-29T06:13:42Z",
-   "pushed_at": "2026-11-10T07:04:53Z",
-   "stars_delta": 5
-  },
-  {
-   "full_name": "baidu-baige/LoongForge",
-   "url": "https://github.com/baidu-baige/LoongForge",
-   "description": "A high-performance framework for training LLMs, VLMs, diffusion, and embodied models on NVIDIA GPUs and Kunlun XPUs.  Supports  Pi0.5, GR00T-N1.7, FastWAM, Cosmos3, DreamZero, DeepSeek-V4,  GLM-5.3, Kimi-K3 and more.",
-   "stars": 845,
+   "full_name": "VAST-AI-Research/TripoSR",
+   "url": "https://github.com/VAST-AI-Research/TripoSR",
+   "description": "TripoSR: Fast 3D Object Reconstruction from a Single Image",
+   "stars": 7395,
    "language": "Python",
    "topics": [
-    "gpu",
-    "kunlun",
-    "llm",
-    "lora",
-    "megatron",
-    "mid-training",
-    "pretraining",
-    "sft",
-    "torch",
-    "vla",
-    "vlm",
-    "wam",
-    "wan",
-    "xpu"
+    "3d-assets",
+    "3d-reconstruction",
+    "feed-forward-3d",
+    "generative-3d",
+    "tripo"
    ],
-   "created_at": "2026-04-23T08:45:42Z",
-   "pushed_at": "2026-11-12T07:29:31Z",
-   "stars_delta": 5
+   "created_at": "2024-02-07T10:31:04Z",
+   "pushed_at": "2026-06-04T07:11:09Z",
+   "stars_delta": 6
   },
   {
-   "full_name": "twehrbein/ExMR",
-   "url": "https://github.com/twehrbein/ExMR",
-   "description": "3D body, hand and foot motion (SMPL-X) from a single monocular video: world-grounded, with export for Blender, Unity, Unreal and humanoid robots. Official code of ExMR (arXiv 2610.26213).",
-   "stars": 125,
+   "full_name": "isaac-sim/IsaacSim",
+   "url": "https://github.com/isaac-sim/IsaacSim",
+   "description": "NVIDIA Isaac Sim™ is an open-source application on NVIDIA Omniverse for developing, simulating, and testing AI-driven robots in realistic virtual environments.",
+   "stars": 4483,
    "language": "Python",
-   "topics": [
-    "3d-human-pose-estimation",
-    "blender",
-    "bvh",
-    "gvhmr",
-    "hand-pose-estimation",
-    "human-mesh-recovery",
-    "human-motion-capture",
-    "humanoid-robot",
-    "motion-capture",
-    "motion-retargeting",
-    "pytorch",
-    "smpl-x"
-   ],
-   "created_at": "2026-10-20T14:00:05Z",
-   "pushed_at": "2026-10-30T14:42:24Z",
-   "stars_delta": 5
-  },
-  {
-   "full_name": "RoboticsResearchHubVN/InstantAMP",
-   "url": "https://github.com/RoboticsResearchHubVN/InstantAMP",
-   "description": "Train AMP in 30 minutes on 1 RTX 5090: Unitree G1 locomotion and get-up through a differentiable world model (JAX + MuJoCo Warp)",
-   "stars": 20,
-   "language": "Python",
-   "topics": [
-    "humanoid",
-    "robot-learning",
-    "supermimic",
-    "world-model"
-   ],
-   "created_at": "2026-11-13T06:44:30Z",
-   "pushed_at": "2026-11-13T06:44:55Z",
-   "stars_delta": 5
-  },
-  {
-   "full_name": "DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-   "url": "https://github.com/DouglasLafortune7668/virtual-card-usdt-world-models-embodied-ai-sim-vcc",
-   "description": "An architectural FinOps and payment-clearing guide for Embodied AI & World Model training clusters (Google Genie 4 / NVIDIA Cosmos / Isaac Lab), preventing cloud GPU cluster payment freezes and runaway simulation billing via USDT-funded CoreGold Virtual Cards (VCC) and Apple Pay.",
-   "stars": 17,
-   "language": null,
    "topics": [],
-   "created_at": "2026-11-13T07:50:30Z",
-   "pushed_at": "2026-11-13T07:52:46Z",
+   "created_at": "2025-05-28T18:38:18Z",
+   "pushed_at": "2026-11-13T16:47:30Z",
+   "stars_delta": 6
+  },
+  {
+   "full_name": "TianxingChen/Embodied-AI-Guide",
+   "url": "https://github.com/TianxingChen/Embodied-AI-Guide",
+   "description": "[Lumina具身智能社区] 具身智能技术指南 Embodied-AI-Guide",
+   "stars": 16964,
+   "language": null,
+   "topics": [
+    "embodied",
+    "embodied-ai",
+    "guide",
+    "robot",
+    "robotic",
+    "robotics",
+    "tutorial"
+   ],
+   "created_at": "2024-05-17T04:29:13Z",
+   "pushed_at": "2026-10-25T08:51:49Z",
    "stars_delta": 5
   },
   {
-   "full_name": "kornia/kornia",
-   "url": "https://github.com/kornia/kornia",
-   "description": "🐍 Geometric Computer Vision Library for Spatial AI",
-   "stars": 12384,
-   "language": "Python",
-   "topics": [
-    "artificial-intelligence",
-    "computer-vision",
-    "deep-learning",
-    "hacktoberfest",
-    "image-processing",
-    "machine-learning",
-    "neural-network",
-    "python",
-    "pytorch",
-    "robotics",
-    "spatial-ai"
-   ],
-   "created_at": "2018-08-22T10:31:37Z",
-   "pushed_at": "2026-11-14T22:38:50Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "isaac-sim/IsaacLab",
-   "url": "https://github.com/isaac-sim/IsaacLab",
-   "description": "Unified framework for robot learning with multi-physics/renderer support",
-   "stars": 8647,
-   "language": "Python",
-   "topics": [
-    "isaac-sim",
-    "omniverse-kit-extension",
-    "robot-learning",
-    "robotics"
-   ],
-   "created_at": "2022-11-16T23:55:13Z",
-   "pushed_at": "2026-11-14T08:07:39Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "pliang279/awesome-multimodal-ml",
-   "url": "https://github.com/pliang279/awesome-multimodal-ml",
-   "description": "Reading list for research topics in multimodal machine learning",
-   "stars": 6959,
-   "language": null,
-   "topics": [
-    "computer-vision",
-    "deep-learning",
-    "healthcare",
-    "machine-learning",
-    "multimodal-learning",
-    "natural-language-processing",
-    "reading-list",
-    "reinforcement-learning",
-    "representation-learning",
-    "robotics",
-    "speech-processing"
-   ],
-   "created_at": "2019-05-27T23:03:48Z",
-   "pushed_at": "2024-08-20T19:46:33Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "rmurai0610/MASt3R-SLAM",
-   "url": "https://github.com/rmurai0610/MASt3R-SLAM",
-   "description": "[CVPR 2025] MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors",
-   "stars": 3254,
-   "language": "Python",
-   "topics": [
-    "computer-vision",
-    "cvpr2025",
-    "robotics",
-    "slam"
-   ],
-   "created_at": "2025-02-24T16:18:37Z",
-   "pushed_at": "2025-11-09T07:36:29Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "RLinf/RLinf",
-   "url": "https://github.com/RLinf/RLinf",
-   "description": "RLinf: Reinforcement Learning Infrastructure for Embodied and Agentic AI",
-   "stars": 5652,
-   "language": "Python",
-   "topics": [
-    "agentic-ai",
-    "embodied-ai",
-    "reinforcement-learning",
-    "rl-infra",
-    "rlinf",
-    "vla-rl"
-   ],
-   "created_at": "2025-08-14T03:52:19Z",
-   "pushed_at": "2026-11-13T11:23:57Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "robocurve/inspect-robots",
-   "url": "https://github.com/robocurve/inspect-robots",
-   "description": "Open source evals for physical AI. Run any LLM/VLA on any arm/humanoid against any real/sim benchmark.",
-   "stars": 761,
-   "language": "Python",
-   "topics": [
-    "benchmark",
-    "embodied-ai",
-    "evaluation",
-    "physical-ai",
-    "rerun",
-    "robotics",
-    "vision-language-action",
-    "vla"
-   ],
-   "created_at": "2026-06-26T06:55:29Z",
-   "pushed_at": "2026-11-11T23:06:03Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "OpenHelix-Team/Spatial-Forcing",
-   "url": "https://github.com/OpenHelix-Team/Spatial-Forcing",
-   "description": "Official implementation of our serial spatial intelligence  robotc foundation model (SLA & Spatial Forcing[ICLR2026]).",
-   "stars": 442,
-   "language": "Python",
-   "topics": [
-    "embodied-ai",
-    "robot-learning"
-   ],
-   "created_at": "2025-10-11T02:48:42Z",
-   "pushed_at": "2026-11-13T04:29:42Z",
-   "stars_delta": 4
-  },
-  {
-   "full_name": "flashrt-project/FlashRT",
-   "url": "https://github.com/flashrt-project/FlashRT",
-   "description": "FlashRT is a high-performance realtime inference engine for small-batch, latency-sensitive AI workloads. The flagship integration is production VLA control for Pi0, Pi0.5, GROOT N1.6, and Pi0-FAST. Also support llm e.g, qwen3.6-27B",
-   "stars": 805,
+   "full_name": "ArduPilot/ardupilot",
+   "url": "https://github.com/ArduPilot/ardupilot",
+   "description": "ArduPlane, ArduCopter, ArduRover, ArduSub source",
+   "stars": 16371,
    "language": "C++",
    "topics": [
-    "cuda",
-    "cuda-kernels",
-    "gr00t",
-    "gr00t-n1-6-3b",
-    "jetson",
-    "jetson-orin",
-    "jetson-thor",
-    "motus",
-    "pi",
-    "pi05",
-    "qwen",
-    "qwen3-6",
-    "qwen3-6-27b",
-    "realtime-inference",
-    "realtime-vla",
-    "thor",
-    "vla",
-    "wan",
-    "wan22-5b"
+    "arducopter",
+    "ardupilot",
+    "arduplane",
+    "ardurover",
+    "ardusub",
+    "autopilot",
+    "auv",
+    "copter",
+    "drone",
+    "dronekit",
+    "mavlink",
+    "plane",
+    "robotics",
+    "ros",
+    "rov",
+    "rover",
+    "sub",
+    "uas",
+    "uav",
+    "ugv"
    ],
-   "created_at": "2026-04-28T16:07:25Z",
-   "pushed_at": "2026-11-14T22:25:36Z",
+   "created_at": "2013-01-09T00:58:52Z",
+   "pushed_at": "2026-11-15T18:37:10Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "zauberzeug/nicegui",
+   "url": "https://github.com/zauberzeug/nicegui",
+   "description": "Create web-based user interfaces with Python. The nice way.",
+   "stars": 16341,
+   "language": "Python",
+   "topics": [
+    "frontend",
+    "gui",
+    "interaction",
+    "interface",
+    "interfaces",
+    "python",
+    "robotics",
+    "scripting",
+    "toolkit",
+    "webapp",
+    "website"
+   ],
+   "created_at": "2021-05-07T13:55:05Z",
+   "pushed_at": "2026-11-14T14:14:40Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "bulletphysics/bullet3",
+   "url": "https://github.com/bulletphysics/bullet3",
+   "description": "Bullet Physics SDK: real-time collision detection and multi-physics simulation for VR, games, visual effects, robotics, machine learning etc.",
+   "stars": 14865,
+   "language": "C++",
+   "topics": [
+    "computer-animation",
+    "game-development",
+    "kinematics",
+    "pybullet",
+    "reinforcement-learning",
+    "robotics",
+    "simulation",
+    "simulator",
+    "virtual-reality"
+   ],
+   "created_at": "2011-04-12T18:45:08Z",
+   "pushed_at": "2026-10-09T21:51:41Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "Adam-CAD/CADAM",
+   "url": "https://github.com/Adam-CAD/CADAM",
+   "description": "CADAM is the open source text-to-CAD web application",
+   "stars": 5432,
+   "language": "TypeScript",
+   "topics": [
+    "agents",
+    "ai",
+    "ai-agents",
+    "cad",
+    "llms",
+    "mechnical-engineering",
+    "openscad",
+    "react",
+    "robotics",
+    "stl",
+    "text-to-cad",
+    "wasm"
+   ],
+   "created_at": "2025-09-01T17:53:58Z",
+   "pushed_at": "2026-10-15T05:26:14Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "dorianborian/sesame-robot",
+   "url": "https://github.com/dorianborian/sesame-robot",
+   "description": "An open and affordable mini quadruped robot based on ESP32.",
+   "stars": 5074,
+   "language": "C",
+   "topics": [
+    "hardware",
+    "robotics",
+    "walking-robot"
+   ],
+   "created_at": "2025-11-21T18:30:15Z",
+   "pushed_at": "2026-11-14T22:35:46Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "google-deepmind/mujoco_menagerie",
+   "url": "https://github.com/google-deepmind/mujoco_menagerie",
+   "description": "A collection of high-quality models for the MuJoCo physics engine, curated by Google DeepMind.",
+   "stars": 4374,
+   "language": "Python",
+   "topics": [
+    "mujoco",
+    "robotics"
+   ],
+   "created_at": "2022-09-05T10:37:53Z",
+   "pushed_at": "2026-11-10T20:21:12Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "muellerberndt/cadence",
+   "url": "https://github.com/muellerberndt/cadence",
+   "description": "A brain that learns from live experience. System 1 by default: perception, memory, plasticity and action. Optional System 2 for self-observation and slow corrections.",
+   "stars": 630,
+   "language": "Python",
+   "topics": [
+    "brain-inspired",
+    "embodied-ai",
+    "equilibrium-networks",
+    "interactive-demo",
+    "local-learning",
+    "machine-learning",
+    "neural-networks",
+    "online-learning",
+    "python",
+    "recursive-networks",
+    "research",
+    "robotics"
+   ],
+   "created_at": "2026-09-07T10:20:11Z",
+   "pushed_at": "2026-11-15T18:27:00Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "mll-lab-nu/embodied-first-exam",
+   "url": "https://github.com/mll-lab-nu/embodied-first-exam",
+   "description": "The first exam for code agents in the physical world: frozen robot tasks from many benchmark suites, each answered with a program and verified in a separate sandbox. Runs on Harbor.",
+   "stars": 279,
+   "language": "Python",
+   "topics": [
+    "agentic-robotics",
+    "ai-agents",
+    "benchmark",
+    "coding-agents",
+    "embodied-agents",
+    "embodied-ai",
+    "embodied-evaluation",
+    "evaluation",
+    "harbor",
+    "llm-agents",
+    "physical-ai",
+    "robot-learning",
+    "robotics",
+    "robotics-benchmark",
+    "simulation"
+   ],
+   "created_at": "2026-09-18T11:01:00Z",
+   "pushed_at": "2026-11-12T21:23:27Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "ShisatoYano/AutonomousVehicleControlBeginnersGuide",
+   "url": "https://github.com/ShisatoYano/AutonomousVehicleControlBeginnersGuide",
+   "description": "Learn autonomous driving by building it: Python simulations and an open textbook where the system grows one stage at a time. Swap and compare localization, planning and control algorithms in the same system.",
+   "stars": 1959,
+   "language": "Python",
+   "topics": [
+    "algorithm",
+    "autonomous-driving",
+    "autonomous-navigation",
+    "autonomous-vehicles",
+    "education",
+    "kalman-filter",
+    "localization",
+    "mapping",
+    "model-predictive-control",
+    "object-detection",
+    "object-tracking",
+    "path-planning",
+    "path-tracking",
+    "perception",
+    "python",
+    "robotics",
+    "self-driving-car",
+    "simulation",
+    "slam",
+    "textbook"
+   ],
+   "created_at": "2022-07-01T14:00:16Z",
+   "pushed_at": "2026-11-15T22:21:27Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "deeplethe/utopia",
+   "url": "https://github.com/deeplethe/utopia",
+   "description": "World's first open-source enterprise world model.",
+   "stars": 8716,
+   "language": "Rust",
+   "topics": [
+    "agent-memory",
+    "bitemporal",
+    "graphrag",
+    "knowledge-base",
+    "knowledge-graph",
+    "llm",
+    "ontology",
+    "pgvector",
+    "postgresql",
+    "rag",
+    "rust",
+    "self-hosted",
+    "semantic-search",
+    "temporal-knowledge-graph",
+    "world-model"
+   ],
+   "created_at": "2026-08-07T19:33:17Z",
+   "pushed_at": "2026-11-15T00:21:30Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "openvla/openvla",
+   "url": "https://github.com/openvla/openvla",
+   "description": "OpenVLA: An open-source vision-language-action model for robotic manipulation.",
+   "stars": 7306,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2024-06-13T21:47:02Z",
+   "pushed_at": "2025-03-23T23:41:01Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "Genesis-Embodied-AI/genesis-world",
+   "url": "https://github.com/Genesis-Embodied-AI/genesis-world",
+   "description": "Simulation platform for general-purpose robotics & embodied AI learning.",
+   "stars": 30230,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2023-10-31T03:33:11Z",
+   "pushed_at": "2026-11-15T22:32:14Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "KhushiJ2911/microVLA",
+   "url": "https://github.com/KhushiJ2911/microVLA",
+   "description": "A small pi0.5-style vision-language-action model you can train from scratch on a 4 GB laptop GPU, plus running the real pi0.5 on the same GPU.",
+   "stars": 12,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2026-11-14T12:29:57Z",
+   "pushed_at": "2026-11-15T00:09:06Z",
+   "stars_delta": 5
+  },
+  {
+   "full_name": "mani-skill/ManiSkill",
+   "url": "https://github.com/mani-skill/ManiSkill",
+   "description": "Manipulation Skill Framework, an open source GPU parallelized robotics simulator and benchmark",
+   "stars": 3516,
+   "language": "Python",
+   "topics": [
+    "embodied-ai",
+    "reinforcement-learning",
+    "robot-learning",
+    "robot-manipulation",
+    "robotics",
+    "simulation"
+   ],
+   "created_at": "2022-08-02T04:56:58Z",
+   "pushed_at": "2026-08-04T16:38:18Z",
+   "stars_delta": 4
+  },
+  {
+   "full_name": "KingKongRobotics/jumper",
+   "url": "https://github.com/KingKongRobotics/jumper",
+   "description": "🦀 Jumper — an crab robot.",
+   "stars": 3196,
+   "language": "Python",
+   "topics": [
+    "crab-robot",
+    "robot",
+    "robotics"
+   ],
+   "created_at": "2026-09-28T05:56:04Z",
+   "pushed_at": "2026-10-30T08:10:23Z",
+   "stars_delta": 4
+  },
+  {
+   "full_name": "ace-trump-tech/MindPaw",
+   "url": "https://github.com/ace-trump-tech/MindPaw",
+   "description": "🐕 MindPaw — 基于 ESP8266 的开源桌面四足机器狗，支持语音、手势、网页遥控、豆包 AI 对话与 PAD 情感交互。可选 AI Infra 网关，适合机器人入门、嵌入式 AI、边缘 Agent 与 HRI 研究。",
+   "stars": 2770,
+   "language": "C++",
+   "topics": [
+    "esp32",
+    "esp8266",
+    "vla"
+   ],
+   "created_at": "2026-05-26T05:24:10Z",
+   "pushed_at": "2026-10-15T01:13:38Z",
+   "stars_delta": 4
+  },
+  {
+   "full_name": "NVlabs/ProtoMotions",
+   "url": "https://github.com/NVlabs/ProtoMotions",
+   "description": "ProtoMotions is a GPU-accelerated simulation and learning framework for training physically simulated digital humans and humanoid robots.",
+   "stars": 2496,
+   "language": "Python",
+   "topics": [
+    "character-animation",
+    "digital-human",
+    "humanoid",
+    "humanoid-robots",
+    "physics-simulation",
+    "reinforcement-learning"
+   ],
+   "created_at": "2024-09-24T08:41:56Z",
+   "pushed_at": "2026-11-10T07:08:48Z",
    "stars_delta": 4
   },
   {
    "full_name": "zqc3117/Spotter",
    "url": "https://github.com/zqc3117/Spotter",
    "description": "Official codebase for Spotter: Let the Embodied Model Lead, and the VLM Reflect for It",
-   "stars": 206,
+   "stars": 210,
    "language": "Python",
    "topics": [
     "embodied-ai",
@@ -3746,97 +3918,52 @@
     "vlm-agent"
    ],
    "created_at": "2026-09-29T04:58:07Z",
-   "pushed_at": "2026-11-05T15:23:18Z",
+   "pushed_at": "2026-11-15T11:15:08Z",
    "stars_delta": 4
   },
   {
-   "full_name": "carla-simulator/carla",
-   "url": "https://github.com/carla-simulator/carla",
-   "description": "Open-source simulator for autonomous driving research.",
-   "stars": 14606,
-   "language": "C++",
+   "full_name": "Gen-Verse/RSI-Anything",
+   "url": "https://github.com/Gen-Verse/RSI-Anything",
+   "description": "RSI-Anything: Unlocking Recursive Self-Improvement with World Models",
+   "stars": 1160,
+   "language": "HTML",
    "topics": [
-    "ai",
-    "artificial-intelligence",
-    "autonomous-driving",
-    "autonomous-vehicles",
-    "carla",
-    "carla-simulator",
-    "computer-vision",
-    "cross-platform",
-    "deep-learning",
-    "deep-reinforcement-learning",
-    "imitation-learning",
-    "research",
-    "ros",
-    "self-driving-car",
-    "simulator",
-    "ue4",
-    "unreal-engine-4"
+    "jepa",
+    "llm-agents",
+    "recursive-self-improvement",
+    "world-models"
    ],
-   "created_at": "2017-10-24T09:06:23Z",
-   "pushed_at": "2026-11-14T21:53:12Z",
+   "created_at": "2026-10-08T22:52:16Z",
+   "pushed_at": "2026-10-13T10:00:45Z",
    "stars_delta": 4
   },
   {
-   "full_name": "hku-mars/FAST-LIVO2",
-   "url": "https://github.com/hku-mars/FAST-LIVO2",
-   "description": "FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry",
-   "stars": 4876,
-   "language": "C++",
-   "topics": [
-    "3d-reconstruction",
-    "colored-point-cloud",
-    "gaussian-splatting",
-    "lidar-camera-fusion",
-    "lidar-inertial-odometry",
-    "lidar-slam",
-    "mesh-reconstruction",
-    "nerf",
-    "sensor-fusion",
-    "slam"
-   ],
-   "created_at": "2024-04-22T12:49:47Z",
-   "pushed_at": "2026-03-08T15:40:36Z",
+   "full_name": "NVIDIA/Isaac-GR00T",
+   "url": "https://github.com/NVIDIA/Isaac-GR00T",
+   "description": "NVIDIA Isaac GR00T N1.7 -  A Foundation Model for Generalist Robots.",
+   "stars": 8376,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2025-03-11T18:34:24Z",
+   "pushed_at": "2026-11-10T18:35:56Z",
    "stars_delta": 4
   },
   {
-   "full_name": "NaiboWang/EasySpider",
-   "url": "https://github.com/NaiboWang/EasySpider",
-   "description": "A visual no-code/code-free web crawler/spider易采集：一个可视化浏览器自动化测试/数据采集/网页爬虫软件，可以无代码图形化的设计和执行爬虫任务。别名：ServiceWrapper面向Web应用的智能化服务封装系统。",
-   "stars": 44794,
-   "language": "JavaScript",
-   "topics": [
-    "batch-processing",
-    "batch-script",
-    "code-free",
-    "crawler",
-    "data-collection",
-    "frontend",
-    "gui",
-    "html",
-    "input-parameters",
-    "layman",
-    "parameters",
-    "robotics",
-    "rpa",
-    "scraper",
-    "spider",
-    "visual",
-    "visualization",
-    "visualprogramming",
-    "web",
-    "www"
-   ],
-   "created_at": "2020-07-18T02:41:27Z",
-   "pushed_at": "2026-11-07T13:35:29Z",
-   "stars_delta": 3
+   "full_name": "facebookresearch/vggt",
+   "url": "https://github.com/facebookresearch/vggt",
+   "description": "[CVPR 2025 Best Paper Award] VGGT: Visual Geometry Grounded Transformer",
+   "stars": 14636,
+   "language": "Python",
+   "topics": [],
+   "created_at": "2025-02-18T18:32:14Z",
+   "pushed_at": "2026-05-19T03:39:39Z",
+   "stars_delta": 4
   },
   {
    "full_name": "DLR-RM/stable-baselines3",
    "url": "https://github.com/DLR-RM/stable-baselines3",
    "description": "PyTorch version of Stable Baselines, reliable implementations of reinforcement learning algorithms. ",
-   "stars": 14012,
+   "stars": 14015,
    "language": "Python",
    "topics": [
     "baselines",
@@ -3857,93 +3984,6 @@
    "created_at": "2020-05-05T05:52:26Z",
    "pushed_at": "2026-10-26T09:35:00Z",
    "stars_delta": 3
-  },
-  {
-   "full_name": "newton-physics/newton",
-   "url": "https://github.com/newton-physics/newton",
-   "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
-   "stars": 5956,
-   "language": "Python",
-   "topics": [
-    "newton-physics",
-    "nvidia-warp",
-    "physics-simulation",
-    "robotics"
-   ],
-   "created_at": "2025-04-22T04:12:07Z",
-   "pushed_at": "2026-11-14T18:17:58Z",
-   "stars_delta": 3
-  },
-  {
-   "full_name": "starVLA/starVLA",
-   "url": "https://github.com/starVLA/starVLA",
-   "description": "StarVLA: A Lego-like Codebase for Vision-Language-Action Model Developing",
-   "stars": 3942,
-   "language": "Python",
-   "topics": [
-    "robotic-foundation-model",
-    "robotics",
-    "vision-language-action-model",
-    "world-action-model"
-   ],
-   "created_at": "2025-10-09T15:33:23Z",
-   "pushed_at": "2026-10-31T07:05:02Z",
-   "stars_delta": 3
-  },
-  {
-   "full_name": "petercorke/robotics-toolbox-python",
-   "url": "https://github.com/petercorke/robotics-toolbox-python",
-   "description": "Robotics Toolbox for Python",
-   "stars": 3589,
-   "language": "C++",
-   "topics": [
-    "dynamics",
-    "hessian",
-    "jacobian",
-    "kinematics",
-    "motion-planning",
-    "python",
-    "robot-manipulator",
-    "robotics",
-    "robotics-control",
-    "robotics-simulation",
-    "robotics-toolbox",
-    "trajectory-generation"
-   ],
-   "created_at": "2015-04-06T05:05:25Z",
-   "pushed_at": "2026-11-08T06:17:54Z",
-   "stars_delta": 3
-  },
-  {
-   "full_name": "KingKongRobotics/jumper",
-   "url": "https://github.com/KingKongRobotics/jumper",
-   "description": "🦀 Jumper — an crab robot.",
-   "stars": 3192,
-   "language": "Python",
-   "topics": [
-    "crab-robot",
-    "robot",
-    "robotics"
-   ],
-   "created_at": "2026-09-28T05:56:04Z",
-   "pushed_at": "2026-10-30T08:10:23Z",
-   "stars_delta": 3
-  },
-  {
-   "full_name": "RoboTwin-Platform/RoboTwin",
-   "url": "https://github.com/RoboTwin-Platform/RoboTwin",
-   "description": "[ICML 2026] RoboTwin 2.0 Offical Code Repo",
-   "stars": 3062,
-   "language": "Python",
-   "topics": [
-    "benchmark",
-    "data-generator",
-    "embodied-ai",
-    "robotics"
-   ],
-   "created_at": "2024-09-18T12:26:19Z",
-   "pushed_at": "2026-09-24T03:44:58Z",
-   "stars_delta": 3
   }
  ],
  "watchlist_releases": [],
@@ -3960,7 +4000,7 @@
      "full_name": "HybridRobotics/supermimic",
      "url": "https://github.com/HybridRobotics/supermimic",
      "description": "Humanoid whole-body motion tracking with one differentiable world model.",
-     "stars": 1496,
+     "stars": 1554,
      "language": "Python",
      "topics": [],
      "created_at": "2026-11-10T10:46:56Z",
@@ -3986,6 +4026,71 @@
    ],
    "search_hits": [
     {
+     "full_name": "ButIAmCreep/x30-supermimic-locomotion",
+     "url": "https://github.com/ButIAmCreep/x30-supermimic-locomotion",
+     "description": "SuperMimic-style X30 quadruped locomotion in MuJoCo/mjlab. Simulation results only; no real-robot deployment.",
+     "stars": 0,
+     "language": "Python",
+     "topics": [],
+     "created_at": "2026-11-15T15:35:03Z",
+     "pushed_at": "2026-11-15T15:35:13Z",
+     "sources": [
+      "search"
+     ]
+    },
+    {
+     "full_name": "hwbhwbhwb/Faster-SuperMimic",
+     "url": "https://github.com/hwbhwbhwb/Faster-SuperMimic",
+     "description": "Official SuperMimic training, 1.38x faster per iteration (ResearchBoost-Agent, frozen statistical judge, 20k-iteration e2e validation)",
+     "stars": 0,
+     "language": "Python",
+     "topics": [],
+     "created_at": "2026-11-15T12:23:12Z",
+     "pushed_at": "2026-11-15T12:33:23Z",
+     "sources": [
+      "search"
+     ]
+    },
+    {
+     "full_name": "ajaycyril/supermimicdemo",
+     "url": "https://github.com/ajaycyril/supermimicdemo",
+     "description": "Compare SuperMimic and Mujoco",
+     "stars": 0,
+     "language": "JavaScript",
+     "topics": [],
+     "created_at": "2026-11-15T11:41:35Z",
+     "pushed_at": "2026-11-15T13:35:26Z",
+     "sources": [
+      "search"
+     ]
+    },
+    {
+     "full_name": "luo-luo-o/SuperMimic-Quadruped-dog",
+     "url": "https://github.com/luo-luo-o/SuperMimic-Quadruped-dog",
+     "description": "peronal search of SuperMimic-Quadruped using my dog. fork from https://github.com/Houserz/supermimic-quadruped",
+     "stars": 0,
+     "language": "Python",
+     "topics": [],
+     "created_at": "2026-11-15T11:09:35Z",
+     "pushed_at": "2026-11-15T14:51:56Z",
+     "sources": [
+      "search"
+     ]
+    },
+    {
+     "full_name": "GuoTianyuan/supermimic_tiangong",
+     "url": "https://github.com/GuoTianyuan/supermimic_tiangong",
+     "description": "",
+     "stars": 0,
+     "language": "Python",
+     "topics": [],
+     "created_at": "2026-11-15T07:35:14Z",
+     "pushed_at": "2026-11-15T07:36:28Z",
+     "sources": [
+      "search"
+     ]
+    },
+    {
      "full_name": "HZZ2Z/Supermimic_q1_robot",
      "url": "https://github.com/HZZ2Z/Supermimic_q1_robot",
      "description": "基于supermimic的q1人型机器人s形绕杆",
@@ -3993,7 +4098,7 @@
      "language": null,
      "topics": [],
      "created_at": "2026-11-14T19:52:24Z",
-     "pushed_at": "2026-11-14T19:52:25Z",
+     "pushed_at": "2026-11-15T13:02:09Z",
      "sources": [
       "search"
      ]
@@ -4006,7 +4111,7 @@
      "language": "Python",
      "topics": [],
      "created_at": "2026-11-14T13:33:19Z",
-     "pushed_at": "2026-11-14T22:13:51Z",
+     "pushed_at": "2026-11-15T19:35:04Z",
      "sources": [
       "search"
      ]
@@ -4033,32 +4138,6 @@
      "topics": [],
      "created_at": "2026-11-14T00:23:15Z",
      "pushed_at": "2026-11-14T00:23:16Z",
-     "sources": [
-      "search"
-     ]
-    },
-    {
-     "full_name": "FFraankk/supermimic-go2",
-     "url": "https://github.com/FFraankk/supermimic-go2",
-     "description": "",
-     "stars": 0,
-     "language": "Python",
-     "topics": [],
-     "created_at": "2026-11-13T10:22:47Z",
-     "pushed_at": "2026-11-13T10:25:19Z",
-     "sources": [
-      "search"
-     ]
-    },
-    {
-     "full_name": "YanKE01/SuperMimic-Video2Robot",
-     "url": "https://github.com/YanKE01/SuperMimic-Video2Robot",
-     "description": "",
-     "stars": 0,
-     "language": "Python",
-     "topics": [],
-     "created_at": "2026-11-13T10:02:42Z",
-     "pushed_at": "2026-11-13T10:03:06Z",
      "sources": [
       "search"
      ]
@@ -4092,7 +4171,7 @@
       "world-model"
      ],
      "created_at": "2026-11-10T06:05:11Z",
-     "pushed_at": "2026-11-14T19:26:29Z",
+     "pushed_at": "2026-11-15T16:11:21Z",
      "sources": [
       "search"
      ]
@@ -4131,7 +4210,7 @@
      "language": "Python",
      "topics": [],
      "created_at": "2026-10-31T10:14:06Z",
-     "pushed_at": "2026-11-13T17:34:20Z",
+     "pushed_at": "2026-11-15T16:38:02Z",
      "sources": [
       "search"
      ]
@@ -4148,45 +4227,6 @@
      "sources": [
       "search"
      ]
-    },
-    {
-     "full_name": "WXyuany/SMR_deploy",
-     "url": "https://github.com/WXyuany/SMR_deploy",
-     "description": "Standalone G1 deployment for SuperMimic-Reproduced 689-dim anchor policies",
-     "stars": 0,
-     "language": "Python",
-     "topics": [],
-     "created_at": "2026-10-30T07:43:37Z",
-     "pushed_at": "2026-11-14T03:57:39Z",
-     "sources": [
-      "search"
-     ]
-    },
-    {
-     "full_name": "lky1433223/supermimic-go2-FDURLCourse",
-     "url": "https://github.com/lky1433223/supermimic-go2-FDURLCourse",
-     "description": "Team homeworkd of RL Course. A go2 RL work following supermimic. GPT is all go2 need.",
-     "stars": 1,
-     "language": "Python",
-     "topics": [],
-     "created_at": "2026-10-30T01:06:19Z",
-     "pushed_at": "2026-11-13T11:27:42Z",
-     "sources": [
-      "search"
-     ]
-    },
-    {
-     "full_name": "heartpain-kong/SuperMimic_Lg",
-     "url": "https://github.com/heartpain-kong/SuperMimic_Lg",
-     "description": "",
-     "stars": 0,
-     "language": "Python",
-     "topics": [],
-     "created_at": "2026-10-28T11:09:28Z",
-     "pushed_at": "2026-11-14T15:24:29Z",
-     "sources": [
-      "search"
-     ]
     }
    ],
    "project_page_github_links": [],
@@ -4197,9 +4237,9 @@
   }
  ],
  "counts": {
-  "new_repos": 259,
-  "tracked": 1673,
-  "with_growth": 271,
+  "new_repos": 255,
+  "tracked": 1671,
+  "with_growth": 280,
   "releases": 0,
   "oss_signals": 1
  }
